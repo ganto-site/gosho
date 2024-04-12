@@ -1,14 +1,10 @@
 ---
-added: '2024-04-12 23:01:59.841789'
-thumbnail: https://dl.ndl.go.jp/api/iiif/823616/R0000001/full/120,/0/default.jpg
-title: "\u9AD8\u7956\u907A\u6587\u9332. \u5DFB\u4E4B\uFF11\uFF12"
-user: ganto-site
-
+layout: none
 ---
 {
   "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "{{ '/' | absolute_url }}manifests/iiif/823616/manifest.json",
   "@type": "sc:Manifest",
-  "@id": "https://ganto-site.github.io/gosho/manifests/iiif/823616/manifest.json",
   "label": "\u9ad8\u7956\u907a\u6587\u9332. \u5dfb\u4e4b\uff11\uff12",
   "metadata": [
     {
@@ -56,8 +52,8 @@ user: ganto-site
       "value": "https://dl.ndl.go.jp/info:ndljp/pid/823616"
     }
   ],
-  "license": "https://dl.ndl.go.jp/ja/iiif_license.html",
   "attribution": "\u56fd\u7acb\u56fd\u4f1a\u56f3\u66f8\u9928 National Diet Library, JAPAN",
+  "license": "https://dl.ndl.go.jp/ja/iiif_license.html",
   "logo": "https://dl.ndl.go.jp/img/logo/ndldc/iiif-logo.png",
   "seeAlso": "https://dl.ndl.go.jp/api/oaipmh?verb=GetRecord&metadataPrefix=dcndl_porta&identifier=oai:dl.ndl.go.jp:info:ndljp/pid/823616",
   "sequences": [
@@ -69,25 +65,32 @@ user: ganto-site
           "@id": "https://dl.ndl.go.jp/api/iiif/823616/canvas/1",
           "@type": "sc:Canvas",
           "label": "1",
-          "width": 4224,
           "height": 3252,
+          "width": 4224,
           "images": [
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/1",
               "resource": {
                 "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000001/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "width": 4224,
                 "height": 3252,
+                "width": 4224,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000001",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
-              }
+              },
+              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/1"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/823616-1-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
@@ -95,25 +98,32 @@ user: ganto-site
           "@id": "https://dl.ndl.go.jp/api/iiif/823616/canvas/2",
           "@type": "sc:Canvas",
           "label": "2",
-          "width": 4224,
           "height": 3252,
+          "width": 4224,
           "images": [
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/2",
               "resource": {
                 "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000002/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "width": 4224,
                 "height": 3252,
+                "width": 4224,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000002",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
-              }
+              },
+              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/2"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/823616-2-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
@@ -121,25 +131,32 @@ user: ganto-site
           "@id": "https://dl.ndl.go.jp/api/iiif/823616/canvas/3",
           "@type": "sc:Canvas",
           "label": "3",
-          "width": 4224,
           "height": 3252,
+          "width": 4224,
           "images": [
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/3",
               "resource": {
                 "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000003/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "width": 4224,
                 "height": 3252,
+                "width": 4224,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000003",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
-              }
+              },
+              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/3"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/823616-3-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
@@ -147,25 +164,32 @@ user: ganto-site
           "@id": "https://dl.ndl.go.jp/api/iiif/823616/canvas/4",
           "@type": "sc:Canvas",
           "label": "4",
-          "width": 4224,
           "height": 3252,
+          "width": 4224,
           "images": [
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/4",
               "resource": {
                 "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000004/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "width": 4224,
                 "height": 3252,
+                "width": 4224,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000004",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
-              }
+              },
+              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/4"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/823616-4-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
@@ -173,25 +197,32 @@ user: ganto-site
           "@id": "https://dl.ndl.go.jp/api/iiif/823616/canvas/5",
           "@type": "sc:Canvas",
           "label": "5",
-          "width": 4224,
           "height": 3252,
+          "width": 4224,
           "images": [
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/5",
               "resource": {
                 "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000005/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "width": 4224,
                 "height": 3252,
+                "width": 4224,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000005",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
-              }
+              },
+              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/5"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/823616-5-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
@@ -199,25 +230,32 @@ user: ganto-site
           "@id": "https://dl.ndl.go.jp/api/iiif/823616/canvas/6",
           "@type": "sc:Canvas",
           "label": "6",
-          "width": 4224,
           "height": 3252,
+          "width": 4224,
           "images": [
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/6",
               "resource": {
                 "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000006/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "width": 4224,
                 "height": 3252,
+                "width": 4224,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000006",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
-              }
+              },
+              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/6"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/823616-6-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
@@ -225,25 +263,32 @@ user: ganto-site
           "@id": "https://dl.ndl.go.jp/api/iiif/823616/canvas/7",
           "@type": "sc:Canvas",
           "label": "7",
-          "width": 4224,
           "height": 3252,
+          "width": 4224,
           "images": [
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/7",
               "resource": {
                 "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000007/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "width": 4224,
                 "height": 3252,
+                "width": 4224,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000007",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
-              }
+              },
+              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/7"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/823616-7-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
@@ -251,25 +296,32 @@ user: ganto-site
           "@id": "https://dl.ndl.go.jp/api/iiif/823616/canvas/8",
           "@type": "sc:Canvas",
           "label": "8",
-          "width": 4224,
           "height": 3252,
+          "width": 4224,
           "images": [
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/8",
               "resource": {
                 "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000008/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "width": 4224,
                 "height": 3252,
+                "width": 4224,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000008",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
-              }
+              },
+              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/8"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/823616-8-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
@@ -277,25 +329,32 @@ user: ganto-site
           "@id": "https://dl.ndl.go.jp/api/iiif/823616/canvas/9",
           "@type": "sc:Canvas",
           "label": "9",
-          "width": 4224,
           "height": 3252,
+          "width": 4224,
           "images": [
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/9",
               "resource": {
                 "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000009/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "width": 4224,
                 "height": 3252,
+                "width": 4224,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000009",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
-              }
+              },
+              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/9"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/823616-9-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
@@ -303,25 +362,32 @@ user: ganto-site
           "@id": "https://dl.ndl.go.jp/api/iiif/823616/canvas/10",
           "@type": "sc:Canvas",
           "label": "10",
-          "width": 4224,
           "height": 3252,
+          "width": 4224,
           "images": [
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/10",
               "resource": {
                 "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000010/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "width": 4224,
                 "height": 3252,
+                "width": 4224,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000010",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
-              }
+              },
+              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/10"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/823616-10-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
@@ -329,25 +395,32 @@ user: ganto-site
           "@id": "https://dl.ndl.go.jp/api/iiif/823616/canvas/11",
           "@type": "sc:Canvas",
           "label": "11",
-          "width": 4224,
           "height": 3252,
+          "width": 4224,
           "images": [
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/11",
               "resource": {
                 "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000011/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "width": 4224,
                 "height": 3252,
+                "width": 4224,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000011",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
-              }
+              },
+              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/11"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/823616-11-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
@@ -355,25 +428,32 @@ user: ganto-site
           "@id": "https://dl.ndl.go.jp/api/iiif/823616/canvas/12",
           "@type": "sc:Canvas",
           "label": "12",
-          "width": 4224,
           "height": 3252,
+          "width": 4224,
           "images": [
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/12",
               "resource": {
                 "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000012/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "width": 4224,
                 "height": 3252,
+                "width": 4224,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000012",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
-              }
+              },
+              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/12"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/823616-12-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
@@ -381,25 +461,32 @@ user: ganto-site
           "@id": "https://dl.ndl.go.jp/api/iiif/823616/canvas/13",
           "@type": "sc:Canvas",
           "label": "13",
-          "width": 4224,
           "height": 3252,
+          "width": 4224,
           "images": [
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/13",
               "resource": {
                 "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000013/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "width": 4224,
                 "height": 3252,
+                "width": 4224,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000013",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
-              }
+              },
+              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/13"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/823616-13-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
@@ -407,25 +494,32 @@ user: ganto-site
           "@id": "https://dl.ndl.go.jp/api/iiif/823616/canvas/14",
           "@type": "sc:Canvas",
           "label": "14",
-          "width": 4224,
           "height": 3252,
+          "width": 4224,
           "images": [
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/14",
               "resource": {
                 "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000014/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "width": 4224,
                 "height": 3252,
+                "width": 4224,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000014",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
-              }
+              },
+              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/14"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/823616-14-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
@@ -433,25 +527,32 @@ user: ganto-site
           "@id": "https://dl.ndl.go.jp/api/iiif/823616/canvas/15",
           "@type": "sc:Canvas",
           "label": "15",
-          "width": 4224,
           "height": 3252,
+          "width": 4224,
           "images": [
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/15",
               "resource": {
                 "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000015/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "width": 4224,
                 "height": 3252,
+                "width": 4224,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000015",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
-              }
+              },
+              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/15"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/823616-15-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
@@ -459,25 +560,32 @@ user: ganto-site
           "@id": "https://dl.ndl.go.jp/api/iiif/823616/canvas/16",
           "@type": "sc:Canvas",
           "label": "16",
-          "width": 4224,
           "height": 3252,
+          "width": 4224,
           "images": [
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/16",
               "resource": {
                 "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000016/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "width": 4224,
                 "height": 3252,
+                "width": 4224,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000016",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
-              }
+              },
+              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/16"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/823616-16-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
@@ -485,25 +593,32 @@ user: ganto-site
           "@id": "https://dl.ndl.go.jp/api/iiif/823616/canvas/17",
           "@type": "sc:Canvas",
           "label": "17",
-          "width": 4224,
           "height": 3252,
+          "width": 4224,
           "images": [
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/17",
               "resource": {
                 "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000017/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "width": 4224,
                 "height": 3252,
+                "width": 4224,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000017",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
-              }
+              },
+              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/17"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/823616-17-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
@@ -511,25 +626,32 @@ user: ganto-site
           "@id": "https://dl.ndl.go.jp/api/iiif/823616/canvas/18",
           "@type": "sc:Canvas",
           "label": "18",
-          "width": 4224,
           "height": 3252,
+          "width": 4224,
           "images": [
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/18",
               "resource": {
                 "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000018/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "width": 4224,
                 "height": 3252,
+                "width": 4224,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000018",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
-              }
+              },
+              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/18"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/823616-18-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
@@ -537,25 +659,32 @@ user: ganto-site
           "@id": "https://dl.ndl.go.jp/api/iiif/823616/canvas/19",
           "@type": "sc:Canvas",
           "label": "19",
-          "width": 4224,
           "height": 3252,
+          "width": 4224,
           "images": [
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/19",
               "resource": {
                 "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000019/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "width": 4224,
                 "height": 3252,
+                "width": 4224,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000019",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
-              }
+              },
+              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/19"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/823616-19-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
@@ -563,25 +692,32 @@ user: ganto-site
           "@id": "https://dl.ndl.go.jp/api/iiif/823616/canvas/20",
           "@type": "sc:Canvas",
           "label": "20",
-          "width": 4224,
           "height": 3252,
+          "width": 4224,
           "images": [
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/20",
               "resource": {
                 "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000020/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "width": 4224,
                 "height": 3252,
+                "width": 4224,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000020",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
-              }
+              },
+              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/20"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/823616-20-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
@@ -589,25 +725,32 @@ user: ganto-site
           "@id": "https://dl.ndl.go.jp/api/iiif/823616/canvas/21",
           "@type": "sc:Canvas",
           "label": "21",
-          "width": 4224,
           "height": 3252,
+          "width": 4224,
           "images": [
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/21",
               "resource": {
                 "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000021/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "width": 4224,
                 "height": 3252,
+                "width": 4224,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000021",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
-              }
+              },
+              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/21"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/823616-21-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
@@ -615,25 +758,32 @@ user: ganto-site
           "@id": "https://dl.ndl.go.jp/api/iiif/823616/canvas/22",
           "@type": "sc:Canvas",
           "label": "22",
-          "width": 4224,
           "height": 3252,
+          "width": 4224,
           "images": [
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/22",
               "resource": {
                 "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000022/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "width": 4224,
                 "height": 3252,
+                "width": 4224,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000022",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
-              }
+              },
+              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/22"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/823616-22-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
@@ -641,25 +791,32 @@ user: ganto-site
           "@id": "https://dl.ndl.go.jp/api/iiif/823616/canvas/23",
           "@type": "sc:Canvas",
           "label": "23",
-          "width": 4224,
           "height": 3252,
+          "width": 4224,
           "images": [
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/23",
               "resource": {
                 "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000023/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "width": 4224,
                 "height": 3252,
+                "width": 4224,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000023",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
-              }
+              },
+              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/23"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/823616-23-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
@@ -667,25 +824,32 @@ user: ganto-site
           "@id": "https://dl.ndl.go.jp/api/iiif/823616/canvas/24",
           "@type": "sc:Canvas",
           "label": "24",
-          "width": 4224,
           "height": 3252,
+          "width": 4224,
           "images": [
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/24",
               "resource": {
                 "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000024/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "width": 4224,
                 "height": 3252,
+                "width": 4224,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000024",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
-              }
+              },
+              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/24"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/823616-24-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
@@ -693,25 +857,32 @@ user: ganto-site
           "@id": "https://dl.ndl.go.jp/api/iiif/823616/canvas/25",
           "@type": "sc:Canvas",
           "label": "25",
-          "width": 4224,
           "height": 3252,
+          "width": 4224,
           "images": [
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/25",
               "resource": {
                 "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000025/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "width": 4224,
                 "height": 3252,
+                "width": 4224,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000025",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
-              }
+              },
+              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/25"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/823616-25-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
@@ -719,25 +890,32 @@ user: ganto-site
           "@id": "https://dl.ndl.go.jp/api/iiif/823616/canvas/26",
           "@type": "sc:Canvas",
           "label": "26",
-          "width": 4224,
           "height": 3252,
+          "width": 4224,
           "images": [
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/26",
               "resource": {
                 "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000026/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "width": 4224,
                 "height": 3252,
+                "width": 4224,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000026",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
-              }
+              },
+              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/26"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/823616-26-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
@@ -745,25 +923,32 @@ user: ganto-site
           "@id": "https://dl.ndl.go.jp/api/iiif/823616/canvas/27",
           "@type": "sc:Canvas",
           "label": "27",
-          "width": 4224,
           "height": 3252,
+          "width": 4224,
           "images": [
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/27",
               "resource": {
                 "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000027/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "width": 4224,
                 "height": 3252,
+                "width": 4224,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000027",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
-              }
+              },
+              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/27"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/823616-27-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
@@ -771,25 +956,32 @@ user: ganto-site
           "@id": "https://dl.ndl.go.jp/api/iiif/823616/canvas/28",
           "@type": "sc:Canvas",
           "label": "28",
-          "width": 4224,
           "height": 3252,
+          "width": 4224,
           "images": [
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/28",
               "resource": {
                 "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000028/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "width": 4224,
                 "height": 3252,
+                "width": 4224,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000028",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
-              }
+              },
+              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/28"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/823616-28-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
@@ -797,25 +989,32 @@ user: ganto-site
           "@id": "https://dl.ndl.go.jp/api/iiif/823616/canvas/29",
           "@type": "sc:Canvas",
           "label": "29",
-          "width": 4224,
           "height": 3252,
+          "width": 4224,
           "images": [
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/29",
               "resource": {
                 "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000029/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "width": 4224,
                 "height": 3252,
+                "width": 4224,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000029",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
-              }
+              },
+              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/29"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/823616-29-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
@@ -823,25 +1022,32 @@ user: ganto-site
           "@id": "https://dl.ndl.go.jp/api/iiif/823616/canvas/30",
           "@type": "sc:Canvas",
           "label": "30",
-          "width": 4224,
           "height": 3252,
+          "width": 4224,
           "images": [
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/30",
               "resource": {
                 "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000030/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "width": 4224,
                 "height": 3252,
+                "width": 4224,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000030",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
-              }
+              },
+              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/30"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/823616-30-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
@@ -849,25 +1055,32 @@ user: ganto-site
           "@id": "https://dl.ndl.go.jp/api/iiif/823616/canvas/31",
           "@type": "sc:Canvas",
           "label": "31",
-          "width": 4224,
           "height": 3252,
+          "width": 4224,
           "images": [
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/31",
               "resource": {
                 "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000031/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "width": 4224,
                 "height": 3252,
+                "width": 4224,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000031",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
-              }
+              },
+              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/31"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/823616-31-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
@@ -875,25 +1088,32 @@ user: ganto-site
           "@id": "https://dl.ndl.go.jp/api/iiif/823616/canvas/32",
           "@type": "sc:Canvas",
           "label": "32",
-          "width": 4224,
           "height": 3252,
+          "width": 4224,
           "images": [
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/32",
               "resource": {
                 "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000032/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "width": 4224,
                 "height": 3252,
+                "width": 4224,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000032",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
-              }
+              },
+              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/32"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/823616-32-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
@@ -901,25 +1121,32 @@ user: ganto-site
           "@id": "https://dl.ndl.go.jp/api/iiif/823616/canvas/33",
           "@type": "sc:Canvas",
           "label": "33",
-          "width": 4224,
           "height": 3252,
+          "width": 4224,
           "images": [
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/33",
               "resource": {
                 "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000033/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "width": 4224,
                 "height": 3252,
+                "width": 4224,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000033",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
-              }
+              },
+              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/33"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/823616-33-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
@@ -927,25 +1154,32 @@ user: ganto-site
           "@id": "https://dl.ndl.go.jp/api/iiif/823616/canvas/34",
           "@type": "sc:Canvas",
           "label": "34",
-          "width": 4224,
           "height": 3252,
+          "width": 4224,
           "images": [
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/34",
               "resource": {
                 "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000034/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "width": 4224,
                 "height": 3252,
+                "width": 4224,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000034",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
-              }
+              },
+              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/34"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/823616-34-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
@@ -953,25 +1187,32 @@ user: ganto-site
           "@id": "https://dl.ndl.go.jp/api/iiif/823616/canvas/35",
           "@type": "sc:Canvas",
           "label": "35",
-          "width": 4224,
           "height": 3252,
+          "width": 4224,
           "images": [
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/35",
               "resource": {
                 "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000035/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "width": 4224,
                 "height": 3252,
+                "width": 4224,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000035",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
-              }
+              },
+              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/35"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/823616-35-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
@@ -979,25 +1220,32 @@ user: ganto-site
           "@id": "https://dl.ndl.go.jp/api/iiif/823616/canvas/36",
           "@type": "sc:Canvas",
           "label": "36",
-          "width": 4224,
           "height": 3252,
+          "width": 4224,
           "images": [
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/36",
               "resource": {
                 "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000036/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "width": 4224,
                 "height": 3252,
+                "width": 4224,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000036",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
-              }
+              },
+              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/36"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/823616-36-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
@@ -1005,25 +1253,32 @@ user: ganto-site
           "@id": "https://dl.ndl.go.jp/api/iiif/823616/canvas/37",
           "@type": "sc:Canvas",
           "label": "37",
-          "width": 4224,
           "height": 3252,
+          "width": 4224,
           "images": [
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/37",
               "resource": {
                 "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000037/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "width": 4224,
                 "height": 3252,
+                "width": 4224,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000037",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
-              }
+              },
+              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/37"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/823616-37-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
@@ -1031,25 +1286,32 @@ user: ganto-site
           "@id": "https://dl.ndl.go.jp/api/iiif/823616/canvas/38",
           "@type": "sc:Canvas",
           "label": "38",
-          "width": 4224,
           "height": 3252,
+          "width": 4224,
           "images": [
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/38",
               "resource": {
                 "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000038/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "width": 4224,
                 "height": 3252,
+                "width": 4224,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000038",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
-              }
+              },
+              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/38"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/823616-38-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
@@ -1057,25 +1319,32 @@ user: ganto-site
           "@id": "https://dl.ndl.go.jp/api/iiif/823616/canvas/39",
           "@type": "sc:Canvas",
           "label": "39",
-          "width": 4224,
           "height": 3252,
+          "width": 4224,
           "images": [
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/39",
               "resource": {
                 "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000039/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "width": 4224,
                 "height": 3252,
+                "width": 4224,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000039",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
-              }
+              },
+              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/39"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/823616-39-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
@@ -1083,25 +1352,32 @@ user: ganto-site
           "@id": "https://dl.ndl.go.jp/api/iiif/823616/canvas/40",
           "@type": "sc:Canvas",
           "label": "40",
-          "width": 4224,
           "height": 3252,
+          "width": 4224,
           "images": [
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/40",
               "resource": {
                 "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000040/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "width": 4224,
                 "height": 3252,
+                "width": 4224,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000040",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
-              }
+              },
+              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/40"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/823616-40-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
@@ -1109,25 +1385,32 @@ user: ganto-site
           "@id": "https://dl.ndl.go.jp/api/iiif/823616/canvas/41",
           "@type": "sc:Canvas",
           "label": "41",
-          "width": 4224,
           "height": 3252,
+          "width": 4224,
           "images": [
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/41",
               "resource": {
                 "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000041/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "width": 4224,
                 "height": 3252,
+                "width": 4224,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000041",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
-              }
+              },
+              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/41"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/823616-41-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
@@ -1135,25 +1418,32 @@ user: ganto-site
           "@id": "https://dl.ndl.go.jp/api/iiif/823616/canvas/42",
           "@type": "sc:Canvas",
           "label": "42",
-          "width": 4224,
           "height": 3252,
+          "width": 4224,
           "images": [
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/42",
               "resource": {
                 "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000042/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "width": 4224,
                 "height": 3252,
+                "width": 4224,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000042",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
-              }
+              },
+              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/42"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/823616-42-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
@@ -1161,25 +1451,32 @@ user: ganto-site
           "@id": "https://dl.ndl.go.jp/api/iiif/823616/canvas/43",
           "@type": "sc:Canvas",
           "label": "43",
-          "width": 4224,
           "height": 3252,
+          "width": 4224,
           "images": [
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/43",
               "resource": {
                 "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000043/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "width": 4224,
                 "height": 3252,
+                "width": 4224,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000043",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
-              }
+              },
+              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/43"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/823616-43-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
@@ -1187,25 +1484,32 @@ user: ganto-site
           "@id": "https://dl.ndl.go.jp/api/iiif/823616/canvas/44",
           "@type": "sc:Canvas",
           "label": "44",
-          "width": 4224,
           "height": 3252,
+          "width": 4224,
           "images": [
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/44",
               "resource": {
                 "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000044/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "width": 4224,
                 "height": 3252,
+                "width": 4224,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000044",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
-              }
+              },
+              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/44"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/823616-44-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
@@ -1213,25 +1517,32 @@ user: ganto-site
           "@id": "https://dl.ndl.go.jp/api/iiif/823616/canvas/45",
           "@type": "sc:Canvas",
           "label": "45",
-          "width": 4224,
           "height": 3252,
+          "width": 4224,
           "images": [
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/45",
               "resource": {
                 "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000045/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "width": 4224,
                 "height": 3252,
+                "width": 4224,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000045",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
-              }
+              },
+              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/45"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/823616-45-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
@@ -1239,25 +1550,32 @@ user: ganto-site
           "@id": "https://dl.ndl.go.jp/api/iiif/823616/canvas/46",
           "@type": "sc:Canvas",
           "label": "46",
-          "width": 4224,
           "height": 3252,
+          "width": 4224,
           "images": [
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/46",
               "resource": {
                 "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000046/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "width": 4224,
                 "height": 3252,
+                "width": 4224,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000046",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
-              }
+              },
+              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/46"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/823616-46-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
@@ -1265,25 +1583,32 @@ user: ganto-site
           "@id": "https://dl.ndl.go.jp/api/iiif/823616/canvas/47",
           "@type": "sc:Canvas",
           "label": "47",
-          "width": 4224,
           "height": 3252,
+          "width": 4224,
           "images": [
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/47",
               "resource": {
                 "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000047/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "width": 4224,
                 "height": 3252,
+                "width": 4224,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000047",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
-              }
+              },
+              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/47"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/823616-47-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
@@ -1291,25 +1616,32 @@ user: ganto-site
           "@id": "https://dl.ndl.go.jp/api/iiif/823616/canvas/48",
           "@type": "sc:Canvas",
           "label": "48",
-          "width": 4224,
           "height": 3252,
+          "width": 4224,
           "images": [
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/48",
               "resource": {
                 "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000048/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "width": 4224,
                 "height": 3252,
+                "width": 4224,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000048",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
-              }
+              },
+              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/48"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/823616-48-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
@@ -1317,25 +1649,32 @@ user: ganto-site
           "@id": "https://dl.ndl.go.jp/api/iiif/823616/canvas/49",
           "@type": "sc:Canvas",
           "label": "49",
-          "width": 4224,
           "height": 3252,
+          "width": 4224,
           "images": [
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/49",
               "resource": {
                 "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000049/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "width": 4224,
                 "height": 3252,
+                "width": 4224,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000049",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
-              }
+              },
+              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/49"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/823616-49-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
@@ -1343,25 +1682,32 @@ user: ganto-site
           "@id": "https://dl.ndl.go.jp/api/iiif/823616/canvas/50",
           "@type": "sc:Canvas",
           "label": "50",
-          "width": 4224,
           "height": 3252,
+          "width": 4224,
           "images": [
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/50",
               "resource": {
                 "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000050/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "width": 4224,
                 "height": 3252,
+                "width": 4224,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000050",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
-              }
+              },
+              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/50"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/823616-50-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
@@ -1369,25 +1715,32 @@ user: ganto-site
           "@id": "https://dl.ndl.go.jp/api/iiif/823616/canvas/51",
           "@type": "sc:Canvas",
           "label": "51",
-          "width": 4224,
           "height": 3252,
+          "width": 4224,
           "images": [
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/51",
               "resource": {
                 "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000051/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "width": 4224,
                 "height": 3252,
+                "width": 4224,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000051",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
-              }
+              },
+              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/51"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/823616-51-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
@@ -1395,25 +1748,32 @@ user: ganto-site
           "@id": "https://dl.ndl.go.jp/api/iiif/823616/canvas/52",
           "@type": "sc:Canvas",
           "label": "52",
-          "width": 4224,
           "height": 3252,
+          "width": 4224,
           "images": [
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/52",
               "resource": {
                 "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000052/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "width": 4224,
                 "height": 3252,
+                "width": 4224,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000052",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
-              }
+              },
+              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/52"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/823616-52-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
@@ -1421,25 +1781,32 @@ user: ganto-site
           "@id": "https://dl.ndl.go.jp/api/iiif/823616/canvas/53",
           "@type": "sc:Canvas",
           "label": "53",
-          "width": 4224,
           "height": 3252,
+          "width": 4224,
           "images": [
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/53",
               "resource": {
                 "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000053/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "width": 4224,
                 "height": 3252,
+                "width": 4224,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000053",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
-              }
+              },
+              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/53"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/823616-53-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
@@ -1447,25 +1814,32 @@ user: ganto-site
           "@id": "https://dl.ndl.go.jp/api/iiif/823616/canvas/54",
           "@type": "sc:Canvas",
           "label": "54",
-          "width": 4224,
           "height": 3252,
+          "width": 4224,
           "images": [
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/54",
               "resource": {
                 "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000054/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "width": 4224,
                 "height": 3252,
+                "width": 4224,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000054",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
-              }
+              },
+              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/54"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/823616-54-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
@@ -1473,25 +1847,32 @@ user: ganto-site
           "@id": "https://dl.ndl.go.jp/api/iiif/823616/canvas/55",
           "@type": "sc:Canvas",
           "label": "55",
-          "width": 4224,
           "height": 3252,
+          "width": 4224,
           "images": [
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/55",
               "resource": {
                 "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000055/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "width": 4224,
                 "height": 3252,
+                "width": 4224,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000055",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
-              }
+              },
+              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/55"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/823616-55-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
@@ -1499,25 +1880,32 @@ user: ganto-site
           "@id": "https://dl.ndl.go.jp/api/iiif/823616/canvas/56",
           "@type": "sc:Canvas",
           "label": "56",
-          "width": 4224,
           "height": 3252,
+          "width": 4224,
           "images": [
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/56",
               "resource": {
                 "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000056/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "width": 4224,
                 "height": 3252,
+                "width": 4224,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000056",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
-              }
+              },
+              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/56"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/823616-56-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
@@ -1525,25 +1913,32 @@ user: ganto-site
           "@id": "https://dl.ndl.go.jp/api/iiif/823616/canvas/57",
           "@type": "sc:Canvas",
           "label": "57",
-          "width": 4224,
           "height": 3252,
+          "width": 4224,
           "images": [
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/57",
               "resource": {
                 "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000057/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "width": 4224,
                 "height": 3252,
+                "width": 4224,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000057",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
-              }
+              },
+              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/57"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/823616-57-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
@@ -1551,25 +1946,32 @@ user: ganto-site
           "@id": "https://dl.ndl.go.jp/api/iiif/823616/canvas/58",
           "@type": "sc:Canvas",
           "label": "58",
-          "width": 4224,
           "height": 3252,
+          "width": 4224,
           "images": [
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/58",
               "resource": {
                 "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000058/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "width": 4224,
                 "height": 3252,
+                "width": 4224,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000058",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
-              }
+              },
+              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/58"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/823616-58-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
@@ -1577,25 +1979,32 @@ user: ganto-site
           "@id": "https://dl.ndl.go.jp/api/iiif/823616/canvas/59",
           "@type": "sc:Canvas",
           "label": "59",
-          "width": 4224,
           "height": 3252,
+          "width": 4224,
           "images": [
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/59",
               "resource": {
                 "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000059/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "width": 4224,
                 "height": 3252,
+                "width": 4224,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000059",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
-              }
+              },
+              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/59"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/823616-59-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
@@ -1603,25 +2012,32 @@ user: ganto-site
           "@id": "https://dl.ndl.go.jp/api/iiif/823616/canvas/60",
           "@type": "sc:Canvas",
           "label": "60",
-          "width": 4224,
           "height": 3252,
+          "width": 4224,
           "images": [
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/60",
               "resource": {
                 "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000060/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "width": 4224,
                 "height": 3252,
+                "width": 4224,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000060",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
-              }
+              },
+              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/60"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/823616-60-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
@@ -1629,25 +2045,32 @@ user: ganto-site
           "@id": "https://dl.ndl.go.jp/api/iiif/823616/canvas/61",
           "@type": "sc:Canvas",
           "label": "61",
-          "width": 4224,
           "height": 3252,
+          "width": 4224,
           "images": [
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/61",
               "resource": {
                 "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000061/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "width": 4224,
                 "height": 3252,
+                "width": 4224,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000061",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
-              }
+              },
+              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/61"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/823616-61-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
@@ -1655,25 +2078,32 @@ user: ganto-site
           "@id": "https://dl.ndl.go.jp/api/iiif/823616/canvas/62",
           "@type": "sc:Canvas",
           "label": "62",
-          "width": 4224,
           "height": 3252,
+          "width": 4224,
           "images": [
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/62",
               "resource": {
                 "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000062/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "width": 4224,
                 "height": 3252,
+                "width": 4224,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000062",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
-              }
+              },
+              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/62"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/823616-62-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
@@ -1681,25 +2111,32 @@ user: ganto-site
           "@id": "https://dl.ndl.go.jp/api/iiif/823616/canvas/63",
           "@type": "sc:Canvas",
           "label": "63",
-          "width": 4224,
           "height": 3252,
+          "width": 4224,
           "images": [
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/63",
               "resource": {
                 "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000063/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "width": 4224,
                 "height": 3252,
+                "width": 4224,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000063",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
-              }
+              },
+              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/63"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/823616-63-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
@@ -1707,25 +2144,32 @@ user: ganto-site
           "@id": "https://dl.ndl.go.jp/api/iiif/823616/canvas/64",
           "@type": "sc:Canvas",
           "label": "64",
-          "width": 4224,
           "height": 3252,
+          "width": 4224,
           "images": [
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/64",
               "resource": {
                 "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000064/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "width": 4224,
                 "height": 3252,
+                "width": 4224,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000064",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
-              }
+              },
+              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/64"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/823616-64-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
@@ -1733,25 +2177,32 @@ user: ganto-site
           "@id": "https://dl.ndl.go.jp/api/iiif/823616/canvas/65",
           "@type": "sc:Canvas",
           "label": "65",
-          "width": 4224,
           "height": 3252,
+          "width": 4224,
           "images": [
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/65",
               "resource": {
                 "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000065/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "width": 4224,
                 "height": 3252,
+                "width": 4224,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000065",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
-              }
+              },
+              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/65"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/823616-65-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
@@ -1759,25 +2210,32 @@ user: ganto-site
           "@id": "https://dl.ndl.go.jp/api/iiif/823616/canvas/66",
           "@type": "sc:Canvas",
           "label": "66",
-          "width": 4224,
           "height": 3252,
+          "width": 4224,
           "images": [
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/66",
               "resource": {
                 "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000066/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "width": 4224,
                 "height": 3252,
+                "width": 4224,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000066",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
-              }
+              },
+              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/66"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/823616-66-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
@@ -1785,25 +2243,32 @@ user: ganto-site
           "@id": "https://dl.ndl.go.jp/api/iiif/823616/canvas/67",
           "@type": "sc:Canvas",
           "label": "67",
-          "width": 4224,
           "height": 3252,
+          "width": 4224,
           "images": [
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/67",
               "resource": {
                 "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000067/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "width": 4224,
                 "height": 3252,
+                "width": 4224,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000067",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
-              }
+              },
+              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/67"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/823616-67-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
@@ -1811,25 +2276,32 @@ user: ganto-site
           "@id": "https://dl.ndl.go.jp/api/iiif/823616/canvas/68",
           "@type": "sc:Canvas",
           "label": "68",
-          "width": 4224,
           "height": 3252,
+          "width": 4224,
           "images": [
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/68",
               "resource": {
                 "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000068/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "width": 4224,
                 "height": 3252,
+                "width": 4224,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000068",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
-              }
+              },
+              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/68"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/823616-68-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
@@ -1837,25 +2309,32 @@ user: ganto-site
           "@id": "https://dl.ndl.go.jp/api/iiif/823616/canvas/69",
           "@type": "sc:Canvas",
           "label": "69",
-          "width": 4224,
           "height": 3252,
+          "width": 4224,
           "images": [
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/69",
               "resource": {
                 "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000069/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "width": 4224,
                 "height": 3252,
+                "width": 4224,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000069",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
-              }
+              },
+              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/69"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/823616-69-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
@@ -1863,25 +2342,32 @@ user: ganto-site
           "@id": "https://dl.ndl.go.jp/api/iiif/823616/canvas/70",
           "@type": "sc:Canvas",
           "label": "70",
-          "width": 4224,
           "height": 3252,
+          "width": 4224,
           "images": [
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/70",
               "resource": {
                 "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000070/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "width": 4224,
                 "height": 3252,
+                "width": 4224,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000070",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
-              }
+              },
+              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/70"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/823616-70-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
@@ -1889,25 +2375,32 @@ user: ganto-site
           "@id": "https://dl.ndl.go.jp/api/iiif/823616/canvas/71",
           "@type": "sc:Canvas",
           "label": "71",
-          "width": 4224,
           "height": 3252,
+          "width": 4224,
           "images": [
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/71",
               "resource": {
                 "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000071/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "width": 4224,
                 "height": 3252,
+                "width": 4224,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000071",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
-              }
+              },
+              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/71"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/823616-71-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
@@ -1915,25 +2408,32 @@ user: ganto-site
           "@id": "https://dl.ndl.go.jp/api/iiif/823616/canvas/72",
           "@type": "sc:Canvas",
           "label": "72",
-          "width": 4224,
           "height": 3252,
+          "width": 4224,
           "images": [
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/72",
               "resource": {
                 "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000072/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "width": 4224,
                 "height": 3252,
+                "width": 4224,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000072",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
-              }
+              },
+              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/72"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/823616-72-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
@@ -1941,25 +2441,32 @@ user: ganto-site
           "@id": "https://dl.ndl.go.jp/api/iiif/823616/canvas/73",
           "@type": "sc:Canvas",
           "label": "73",
-          "width": 4224,
           "height": 3252,
+          "width": 4224,
           "images": [
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/73",
               "resource": {
                 "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000073/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "width": 4224,
                 "height": 3252,
+                "width": 4224,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000073",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
-              }
+              },
+              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/73"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/823616-73-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
@@ -1967,25 +2474,32 @@ user: ganto-site
           "@id": "https://dl.ndl.go.jp/api/iiif/823616/canvas/74",
           "@type": "sc:Canvas",
           "label": "74",
-          "width": 4224,
           "height": 3252,
+          "width": 4224,
           "images": [
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/74",
               "resource": {
                 "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000074/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "width": 4224,
                 "height": 3252,
+                "width": 4224,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000074",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
-              }
+              },
+              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/74"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/823616-74-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
@@ -1993,25 +2507,32 @@ user: ganto-site
           "@id": "https://dl.ndl.go.jp/api/iiif/823616/canvas/75",
           "@type": "sc:Canvas",
           "label": "75",
-          "width": 4224,
           "height": 3252,
+          "width": 4224,
           "images": [
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/75",
               "resource": {
                 "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000075/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "width": 4224,
                 "height": 3252,
+                "width": 4224,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000075",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
-              }
+              },
+              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/75"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/823616-75-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
@@ -2019,25 +2540,32 @@ user: ganto-site
           "@id": "https://dl.ndl.go.jp/api/iiif/823616/canvas/76",
           "@type": "sc:Canvas",
           "label": "76",
-          "width": 4224,
           "height": 3252,
+          "width": 4224,
           "images": [
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/76",
               "resource": {
                 "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000076/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "width": 4224,
                 "height": 3252,
+                "width": 4224,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000076",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
-              }
+              },
+              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/76"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/823616-76-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
@@ -2045,25 +2573,32 @@ user: ganto-site
           "@id": "https://dl.ndl.go.jp/api/iiif/823616/canvas/77",
           "@type": "sc:Canvas",
           "label": "77",
-          "width": 4224,
           "height": 3252,
+          "width": 4224,
           "images": [
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/77",
               "resource": {
                 "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000077/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "width": 4224,
                 "height": 3252,
+                "width": 4224,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000077",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
-              }
+              },
+              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/77"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/823616-77-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
@@ -2071,25 +2606,32 @@ user: ganto-site
           "@id": "https://dl.ndl.go.jp/api/iiif/823616/canvas/78",
           "@type": "sc:Canvas",
           "label": "78",
-          "width": 4224,
           "height": 3252,
+          "width": 4224,
           "images": [
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/78",
               "resource": {
                 "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000078/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "width": 4224,
                 "height": 3252,
+                "width": 4224,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000078",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
-              }
+              },
+              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/78"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/823616-78-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
@@ -2097,25 +2639,32 @@ user: ganto-site
           "@id": "https://dl.ndl.go.jp/api/iiif/823616/canvas/79",
           "@type": "sc:Canvas",
           "label": "79",
-          "width": 4224,
           "height": 3252,
+          "width": 4224,
           "images": [
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/79",
               "resource": {
                 "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000079/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "width": 4224,
                 "height": 3252,
+                "width": 4224,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000079",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
-              }
+              },
+              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/79"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/823616-79-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
@@ -2123,25 +2672,32 @@ user: ganto-site
           "@id": "https://dl.ndl.go.jp/api/iiif/823616/canvas/80",
           "@type": "sc:Canvas",
           "label": "80",
-          "width": 4224,
           "height": 3252,
+          "width": 4224,
           "images": [
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/80",
               "resource": {
                 "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000080/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "width": 4224,
                 "height": 3252,
+                "width": 4224,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000080",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
-              }
+              },
+              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/80"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/823616-80-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
@@ -2149,25 +2705,32 @@ user: ganto-site
           "@id": "https://dl.ndl.go.jp/api/iiif/823616/canvas/81",
           "@type": "sc:Canvas",
           "label": "81",
-          "width": 4224,
           "height": 3252,
+          "width": 4224,
           "images": [
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/81",
               "resource": {
                 "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000081/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "width": 4224,
                 "height": 3252,
+                "width": 4224,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000081",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
-              }
+              },
+              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/81"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/823616-81-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
@@ -2175,25 +2738,32 @@ user: ganto-site
           "@id": "https://dl.ndl.go.jp/api/iiif/823616/canvas/82",
           "@type": "sc:Canvas",
           "label": "82",
-          "width": 4224,
           "height": 3252,
+          "width": 4224,
           "images": [
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/82",
               "resource": {
                 "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000082/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "width": 4224,
                 "height": 3252,
+                "width": 4224,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000082",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
-              }
+              },
+              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/82"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/823616-82-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
@@ -2201,25 +2771,32 @@ user: ganto-site
           "@id": "https://dl.ndl.go.jp/api/iiif/823616/canvas/83",
           "@type": "sc:Canvas",
           "label": "83",
-          "width": 4224,
           "height": 3252,
+          "width": 4224,
           "images": [
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/83",
               "resource": {
                 "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000083/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "width": 4224,
                 "height": 3252,
+                "width": 4224,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000083",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
-              }
+              },
+              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/83"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/823616-83-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
@@ -2227,25 +2804,32 @@ user: ganto-site
           "@id": "https://dl.ndl.go.jp/api/iiif/823616/canvas/84",
           "@type": "sc:Canvas",
           "label": "84",
-          "width": 4224,
           "height": 3252,
+          "width": 4224,
           "images": [
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/84",
               "resource": {
                 "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000084/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "width": 4224,
                 "height": 3252,
+                "width": 4224,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000084",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
-              }
+              },
+              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/84"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/823616-84-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
@@ -2253,25 +2837,32 @@ user: ganto-site
           "@id": "https://dl.ndl.go.jp/api/iiif/823616/canvas/85",
           "@type": "sc:Canvas",
           "label": "85",
-          "width": 4224,
           "height": 3252,
+          "width": 4224,
           "images": [
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/85",
               "resource": {
                 "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000085/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "width": 4224,
                 "height": 3252,
+                "width": 4224,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000085",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
-              }
+              },
+              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/85"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/823616-85-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
@@ -2279,25 +2870,32 @@ user: ganto-site
           "@id": "https://dl.ndl.go.jp/api/iiif/823616/canvas/86",
           "@type": "sc:Canvas",
           "label": "86",
-          "width": 4224,
           "height": 3252,
+          "width": 4224,
           "images": [
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/86",
               "resource": {
                 "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000086/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "width": 4224,
                 "height": 3252,
+                "width": 4224,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000086",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
-              }
+              },
+              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/86"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/823616-86-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
@@ -2305,25 +2903,32 @@ user: ganto-site
           "@id": "https://dl.ndl.go.jp/api/iiif/823616/canvas/87",
           "@type": "sc:Canvas",
           "label": "87",
-          "width": 4224,
           "height": 3252,
+          "width": 4224,
           "images": [
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/87",
               "resource": {
                 "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000087/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "width": 4224,
                 "height": 3252,
+                "width": 4224,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000087",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
-              }
+              },
+              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/87"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/823616-87-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
@@ -2331,25 +2936,32 @@ user: ganto-site
           "@id": "https://dl.ndl.go.jp/api/iiif/823616/canvas/88",
           "@type": "sc:Canvas",
           "label": "88",
-          "width": 4224,
           "height": 3252,
+          "width": 4224,
           "images": [
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/88",
               "resource": {
                 "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000088/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "width": 4224,
                 "height": 3252,
+                "width": 4224,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000088",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
-              }
+              },
+              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/88"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/823616-88-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
@@ -2357,25 +2969,32 @@ user: ganto-site
           "@id": "https://dl.ndl.go.jp/api/iiif/823616/canvas/89",
           "@type": "sc:Canvas",
           "label": "89",
-          "width": 4224,
           "height": 3252,
+          "width": 4224,
           "images": [
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/89",
               "resource": {
                 "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000089/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "width": 4224,
                 "height": 3252,
+                "width": 4224,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000089",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
-              }
+              },
+              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/89"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/823616-89-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
@@ -2383,25 +3002,32 @@ user: ganto-site
           "@id": "https://dl.ndl.go.jp/api/iiif/823616/canvas/90",
           "@type": "sc:Canvas",
           "label": "90",
-          "width": 4224,
           "height": 3252,
+          "width": 4224,
           "images": [
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/90",
               "resource": {
                 "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000090/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "width": 4224,
                 "height": 3252,
+                "width": 4224,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://dl.ndl.go.jp/api/iiif/823616/R0000090",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
-              }
+              },
+              "on": "https://dl.ndl.go.jp/api/iiif/823616/canvas/90"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/823616-90-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         }
