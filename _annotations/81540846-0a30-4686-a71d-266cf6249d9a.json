@@ -10,16 +10,7 @@ order: 1
         "oa:commenting"
     ],
     "resource": [
-        {
-            "@type": "oa:Tag",
-            "chars": "\u6280\u8853"
-        },
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p>\u65b0\u898f\u30022024/04/13\u3002\u6771\u5927\u5609\u8208\u8535\u30fbSAT\u3067\u904e\u53bb\u306e\u6ce8\u91c8\u3092\u53d6\u308a\u8fbc\u3081\u306a\u3044\u304b\u3001\u6570\u65e5\u6311\u6226\u3057\u305f\u304c\u30c0\u30e1\u3002</p>"
-        }
-    ],
+        {"@type":"dctypes:Text","format":"text/html","chars":"<p>譬えば宅に柱なければ・たもたず人に魂なければ死人なり、日蓮は日本の人の魂なり平左衛門既に日本の柱をたをしぬ</p>\n<p>&gt;主師親の三徳を具備しているのは仏に限る</p>"},{"@type":"oa:Tag","chars":"戸田先生"}],
     "on": [
         {
             "@type": "oa:SpecificResource",
