@@ -1,0 +1,44 @@
+---
+canvas: "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0012.json"
+order: 7
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p>1\uff3d\u901a\u5e8f</p>\n<p>\u901a\u5e8f\u306f\u3001\u300e\u6469\u8a36\u6b62\u89b3\u300f\u306e\u5192\u982d\u306e\u7b87\u6240\u3067\u3042\u308b\u3002</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0012.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2295,1703,191,323"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2295.22035,1702.97762h95.26899v0h95.26899v161.7209v161.7209h-95.26899h-95.26899v-161.7209z\"  id=\"rectangle_6cf8c1e4-402e-4d33-b7ac-1b2326aa8574\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff00ff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://ganto-site.github.io/gosho/manifests/kakouzou/KB033_01/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2025-01-22T06:09:11.003Z",
+    "@id": "7a2d5256-6535-46db-8100-1e722bff5929.json",
+    "oa:annotatedBy": [
+        "ganto-site"
+    ]
+}
