@@ -1,0 +1,3359 @@
+---
+added: '2025-01-22 04:29:13.349566'
+thumbnail: https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0001s.tif/full/120,/0/default.jpg
+title: "\u5609\u8208\u8535\uFF08\u4E07\u66C6\u7248\u5927\u85CF\u7D93\uFF09\u88DC\u7B2C\
+  33\u5E19 \u7B2C1\u518A"
+user: ganto-site
+
+---
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@type": "sc:Manifest",
+  "@id": "https://ganto-site.github.io/gosho/manifests/kakouzou/KB033_01/manifest.json",
+  "label": "\u5609\u8208\u8535\uff08\u4e07\u66c6\u7248\u5927\u85cf\u7d93\uff09\u88dc\u7b2c33\u5e19 \u7b2c1\u518a",
+  "metadata": [
+    {
+      "label": "Publisher",
+      "value": "\u5609\u8208\u695e\u53b3\u5bfa"
+    },
+    {
+      "label": "published",
+      "value": [
+        {
+          "@value": "",
+          "@language": "zh"
+        }
+      ]
+    },
+    {
+      "label": "Source",
+      "value": "From: University of Tokyo"
+    },
+    {
+      "label": "PDF",
+      "value": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/KB033_01.pdf"
+    },
+    {
+      "label": "Manifest",
+      "value": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/manifest3.json"
+    }
+  ],
+  "description": "",
+  "viewingDirection": "right-to-left",
+  "license": "http://creativecommons.org/licenses/by/4.0/",
+  "attribution": "General Library in the University of Tokyo, Council for Promotion of Study of Daizokyo, and the SAT Daiz\u014dky\u014d Text Database Committee",
+  "logo": "",
+  "sequences": [
+    {
+      "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/sequence/s1.json",
+      "@type": "sc:Sequence",
+      "label": "Current Page Order",
+      "canvases": [
+        {
+          "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0001.json",
+          "@type": "sc:Canvas",
+          "label": " p. 1",
+          "width": 6000,
+          "height": 4508,
+          "images": [
+            {
+              "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/annotation/ano0001.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0001s.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 6000,
+                "height": 4508,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0001s.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0001.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0002.json",
+          "@type": "sc:Canvas",
+          "label": " p. 2",
+          "width": 6000,
+          "height": 4508,
+          "images": [
+            {
+              "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/annotation/ano0002.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0002s.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 6000,
+                "height": 4508,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0002s.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0002.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0003.json",
+          "@type": "sc:Canvas",
+          "label": " p. 3",
+          "width": 6000,
+          "height": 4508,
+          "images": [
+            {
+              "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/annotation/ano0003.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0003s.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 6000,
+                "height": 4508,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0003s.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0003.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0004.json",
+          "@type": "sc:Canvas",
+          "label": " p. 4",
+          "width": 6000,
+          "height": 4508,
+          "images": [
+            {
+              "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/annotation/ano0004.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0004s.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 6000,
+                "height": 4508,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0004s.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0004.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0005.json",
+          "@type": "sc:Canvas",
+          "label": " p. 5",
+          "width": 6000,
+          "height": 4508,
+          "images": [
+            {
+              "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/annotation/ano0005.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0005s.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 6000,
+                "height": 4508,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0005s.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0005.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0006.json",
+          "@type": "sc:Canvas",
+          "label": " p. 6",
+          "width": 6000,
+          "height": 4508,
+          "images": [
+            {
+              "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/annotation/ano0006.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0006s.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 6000,
+                "height": 4508,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0006s.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0006.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0007.json",
+          "@type": "sc:Canvas",
+          "label": " p. 7",
+          "width": 6000,
+          "height": 4508,
+          "images": [
+            {
+              "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/annotation/ano0007.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0007s.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 6000,
+                "height": 4508,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0007s.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0007.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0008.json",
+          "@type": "sc:Canvas",
+          "label": " p. 8",
+          "width": 6000,
+          "height": 4508,
+          "images": [
+            {
+              "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/annotation/ano0008.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0008s.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 6000,
+                "height": 4508,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0008s.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0008.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0009.json",
+          "@type": "sc:Canvas",
+          "label": " p. 9",
+          "width": 6000,
+          "height": 4508,
+          "images": [
+            {
+              "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/annotation/ano0009.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0009s.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 6000,
+                "height": 4508,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0009s.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0009.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0010.json",
+          "@type": "sc:Canvas",
+          "label": " p. 10",
+          "width": 6000,
+          "height": 4508,
+          "images": [
+            {
+              "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/annotation/ano0010.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0010s.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 6000,
+                "height": 4508,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0010s.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0010.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0011.json",
+          "@type": "sc:Canvas",
+          "label": " p. 11",
+          "width": 6000,
+          "height": 4508,
+          "images": [
+            {
+              "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/annotation/ano0011.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0011s.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 6000,
+                "height": 4508,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0011s.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0011.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0012.json",
+          "@type": "sc:Canvas",
+          "label": " p. 12",
+          "width": 6000,
+          "height": 4508,
+          "images": [
+            {
+              "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/annotation/ano0012.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0012s.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 6000,
+                "height": 4508,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0012s.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0012.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0013.json",
+          "@type": "sc:Canvas",
+          "label": " p. 13",
+          "width": 6000,
+          "height": 4508,
+          "images": [
+            {
+              "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/annotation/ano0013.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0013s.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 6000,
+                "height": 4508,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0013s.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0013.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0014.json",
+          "@type": "sc:Canvas",
+          "label": " p. 14",
+          "width": 6000,
+          "height": 4508,
+          "images": [
+            {
+              "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/annotation/ano0014.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0014s.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 6000,
+                "height": 4508,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0014s.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0014.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0015.json",
+          "@type": "sc:Canvas",
+          "label": " p. 15",
+          "width": 6000,
+          "height": 4508,
+          "images": [
+            {
+              "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/annotation/ano0015.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0015s.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 6000,
+                "height": 4508,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0015s.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0015.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0016.json",
+          "@type": "sc:Canvas",
+          "label": " p. 16",
+          "width": 6000,
+          "height": 4508,
+          "images": [
+            {
+              "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/annotation/ano0016.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0016s.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 6000,
+                "height": 4508,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0016s.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0016.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0017.json",
+          "@type": "sc:Canvas",
+          "label": " p. 17",
+          "width": 6000,
+          "height": 4508,
+          "images": [
+            {
+              "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/annotation/ano0017.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0017s.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 6000,
+                "height": 4508,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0017s.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0017.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0018.json",
+          "@type": "sc:Canvas",
+          "label": " p. 18",
+          "width": 6000,
+          "height": 4508,
+          "images": [
+            {
+              "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/annotation/ano0018.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0018s.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 6000,
+                "height": 4508,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0018s.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0018.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0019.json",
+          "@type": "sc:Canvas",
+          "label": " p. 19",
+          "width": 6000,
+          "height": 4508,
+          "images": [
+            {
+              "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/annotation/ano0019.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0019s.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 6000,
+                "height": 4508,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0019s.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0019.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0020.json",
+          "@type": "sc:Canvas",
+          "label": " p. 20",
+          "width": 6000,
+          "height": 4508,
+          "images": [
+            {
+              "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/annotation/ano0020.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0020s.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 6000,
+                "height": 4508,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0020s.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0020.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0021.json",
+          "@type": "sc:Canvas",
+          "label": " p. 21",
+          "width": 6000,
+          "height": 4508,
+          "images": [
+            {
+              "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/annotation/ano0021.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0021s.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 6000,
+                "height": 4508,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0021s.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0021.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0022.json",
+          "@type": "sc:Canvas",
+          "label": " p. 22",
+          "width": 6000,
+          "height": 4508,
+          "images": [
+            {
+              "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/annotation/ano0022.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0022s.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 6000,
+                "height": 4508,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0022s.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0022.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0023.json",
+          "@type": "sc:Canvas",
+          "label": " p. 23",
+          "width": 6000,
+          "height": 4508,
+          "images": [
+            {
+              "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/annotation/ano0023.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0023s.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 6000,
+                "height": 4508,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0023s.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0023.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0024.json",
+          "@type": "sc:Canvas",
+          "label": " p. 24",
+          "width": 6000,
+          "height": 4508,
+          "images": [
+            {
+              "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/annotation/ano0024.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0024s.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 6000,
+                "height": 4508,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0024s.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0024.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0025.json",
+          "@type": "sc:Canvas",
+          "label": " p. 25",
+          "width": 6000,
+          "height": 4508,
+          "images": [
+            {
+              "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/annotation/ano0025.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0025s.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 6000,
+                "height": 4508,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0025s.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0025.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0026.json",
+          "@type": "sc:Canvas",
+          "label": " p. 26",
+          "width": 6000,
+          "height": 4508,
+          "images": [
+            {
+              "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/annotation/ano0026.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0026s.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 6000,
+                "height": 4508,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0026s.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0026.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0027.json",
+          "@type": "sc:Canvas",
+          "label": " p. 27",
+          "width": 6000,
+          "height": 4508,
+          "images": [
+            {
+              "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/annotation/ano0027.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0027s.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 6000,
+                "height": 4508,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0027s.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0027.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0028.json",
+          "@type": "sc:Canvas",
+          "label": " p. 28",
+          "width": 6000,
+          "height": 4508,
+          "images": [
+            {
+              "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/annotation/ano0028.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0028s.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 6000,
+                "height": 4508,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0028s.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0028.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0029.json",
+          "@type": "sc:Canvas",
+          "label": " p. 29",
+          "width": 6000,
+          "height": 4508,
+          "images": [
+            {
+              "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/annotation/ano0029.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0029s.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 6000,
+                "height": 4508,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0029s.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0029.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0030.json",
+          "@type": "sc:Canvas",
+          "label": " p. 30",
+          "width": 6000,
+          "height": 4508,
+          "images": [
+            {
+              "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/annotation/ano0030.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0030s.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 6000,
+                "height": 4508,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0030s.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0030.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0031.json",
+          "@type": "sc:Canvas",
+          "label": " p. 31",
+          "width": 6000,
+          "height": 4508,
+          "images": [
+            {
+              "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/annotation/ano0031.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0031s.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 6000,
+                "height": 4508,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0031s.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0031.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0032.json",
+          "@type": "sc:Canvas",
+          "label": " p. 32",
+          "width": 6000,
+          "height": 4508,
+          "images": [
+            {
+              "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/annotation/ano0032.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0032s.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 6000,
+                "height": 4508,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0032s.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0032.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0033.json",
+          "@type": "sc:Canvas",
+          "label": " p. 33",
+          "width": 6000,
+          "height": 4508,
+          "images": [
+            {
+              "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/annotation/ano0033.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0033s.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 6000,
+                "height": 4508,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0033s.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0033.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0034.json",
+          "@type": "sc:Canvas",
+          "label": " p. 34",
+          "width": 6000,
+          "height": 4508,
+          "images": [
+            {
+              "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/annotation/ano0034.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0034s.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 6000,
+                "height": 4508,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0034s.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0034.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0035.json",
+          "@type": "sc:Canvas",
+          "label": " p. 35",
+          "width": 6000,
+          "height": 4508,
+          "images": [
+            {
+              "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/annotation/ano0035.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0035s.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 6000,
+                "height": 4508,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0035s.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0035.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0036.json",
+          "@type": "sc:Canvas",
+          "label": " p. 36",
+          "width": 6000,
+          "height": 4508,
+          "images": [
+            {
+              "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/annotation/ano0036.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0036s.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 6000,
+                "height": 4508,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0036s.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0036.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0037.json",
+          "@type": "sc:Canvas",
+          "label": " p. 37",
+          "width": 6000,
+          "height": 4508,
+          "images": [
+            {
+              "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/annotation/ano0037.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0037s.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 6000,
+                "height": 4508,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0037s.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0037.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0038.json",
+          "@type": "sc:Canvas",
+          "label": " p. 38",
+          "width": 6000,
+          "height": 4508,
+          "images": [
+            {
+              "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/annotation/ano0038.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0038s.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 6000,
+                "height": 4508,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0038s.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0038.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0039.json",
+          "@type": "sc:Canvas",
+          "label": " p. 39",
+          "width": 6000,
+          "height": 4508,
+          "images": [
+            {
+              "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/annotation/ano0039.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0039s.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 6000,
+                "height": 4508,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0039s.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0039.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0040.json",
+          "@type": "sc:Canvas",
+          "label": " p. 40",
+          "width": 6000,
+          "height": 4508,
+          "images": [
+            {
+              "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/annotation/ano0040.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0040s.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 6000,
+                "height": 4508,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0040s.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0040.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0041.json",
+          "@type": "sc:Canvas",
+          "label": " p. 41",
+          "width": 6000,
+          "height": 4508,
+          "images": [
+            {
+              "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/annotation/ano0041.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0041s.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 6000,
+                "height": 4508,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0041s.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0041.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0042.json",
+          "@type": "sc:Canvas",
+          "label": " p. 42",
+          "width": 6000,
+          "height": 4508,
+          "images": [
+            {
+              "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/annotation/ano0042.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0042s.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 6000,
+                "height": 4508,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0042s.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0042.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0043.json",
+          "@type": "sc:Canvas",
+          "label": " p. 43",
+          "width": 6000,
+          "height": 4508,
+          "images": [
+            {
+              "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/annotation/ano0043.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0043s.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 6000,
+                "height": 4508,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0043s.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0043.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0044.json",
+          "@type": "sc:Canvas",
+          "label": " p. 44",
+          "width": 6000,
+          "height": 4508,
+          "images": [
+            {
+              "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/annotation/ano0044.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0044s.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 6000,
+                "height": 4508,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0044s.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0044.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0045.json",
+          "@type": "sc:Canvas",
+          "label": " p. 45",
+          "width": 6000,
+          "height": 4508,
+          "images": [
+            {
+              "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/annotation/ano0045.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0045s.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 6000,
+                "height": 4508,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0045s.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0045.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0046.json",
+          "@type": "sc:Canvas",
+          "label": " p. 46",
+          "width": 6000,
+          "height": 4508,
+          "images": [
+            {
+              "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/annotation/ano0046.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0046s.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 6000,
+                "height": 4508,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0046s.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0046.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0047.json",
+          "@type": "sc:Canvas",
+          "label": " p. 47",
+          "width": 6000,
+          "height": 4508,
+          "images": [
+            {
+              "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/annotation/ano0047.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0047s.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 6000,
+                "height": 4508,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0047s.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0047.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0048.json",
+          "@type": "sc:Canvas",
+          "label": " p. 48",
+          "width": 6000,
+          "height": 4508,
+          "images": [
+            {
+              "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/annotation/ano0048.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0048s.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 6000,
+                "height": 4508,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0048s.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0048.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0049.json",
+          "@type": "sc:Canvas",
+          "label": " p. 49",
+          "width": 6000,
+          "height": 4508,
+          "images": [
+            {
+              "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/annotation/ano0049.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0049s.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 6000,
+                "height": 4508,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0049s.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0049.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0050.json",
+          "@type": "sc:Canvas",
+          "label": " p. 50",
+          "width": 6000,
+          "height": 4508,
+          "images": [
+            {
+              "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/annotation/ano0050.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0050s.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 6000,
+                "height": 4508,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0050s.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0050.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0051.json",
+          "@type": "sc:Canvas",
+          "label": " p. 51",
+          "width": 6000,
+          "height": 4508,
+          "images": [
+            {
+              "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/annotation/ano0051.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0051s.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 6000,
+                "height": 4508,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0051s.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0051.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0052.json",
+          "@type": "sc:Canvas",
+          "label": " p. 52",
+          "width": 6000,
+          "height": 4508,
+          "images": [
+            {
+              "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/annotation/ano0052.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0052s.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 6000,
+                "height": 4508,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0052s.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0052.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0053.json",
+          "@type": "sc:Canvas",
+          "label": " p. 53",
+          "width": 6000,
+          "height": 4508,
+          "images": [
+            {
+              "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/annotation/ano0053.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0053s.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 6000,
+                "height": 4508,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0053s.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0053.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0054.json",
+          "@type": "sc:Canvas",
+          "label": " p. 54",
+          "width": 6000,
+          "height": 4508,
+          "images": [
+            {
+              "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/annotation/ano0054.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0054s.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 6000,
+                "height": 4508,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0054s.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0054.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0055.json",
+          "@type": "sc:Canvas",
+          "label": " p. 55",
+          "width": 6000,
+          "height": 4508,
+          "images": [
+            {
+              "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/annotation/ano0055.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0055s.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 6000,
+                "height": 4508,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0055s.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0055.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0056.json",
+          "@type": "sc:Canvas",
+          "label": " p. 56",
+          "width": 6000,
+          "height": 4508,
+          "images": [
+            {
+              "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/annotation/ano0056.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0056s.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 6000,
+                "height": 4508,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0056s.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0056.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0057.json",
+          "@type": "sc:Canvas",
+          "label": " p. 57",
+          "width": 6000,
+          "height": 4508,
+          "images": [
+            {
+              "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/annotation/ano0057.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0057s.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 6000,
+                "height": 4508,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0057s.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0057.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0058.json",
+          "@type": "sc:Canvas",
+          "label": " p. 58",
+          "width": 6000,
+          "height": 4508,
+          "images": [
+            {
+              "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/annotation/ano0058.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0058s.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 6000,
+                "height": 4508,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0058s.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0058.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0059.json",
+          "@type": "sc:Canvas",
+          "label": " p. 59",
+          "width": 6000,
+          "height": 4508,
+          "images": [
+            {
+              "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/annotation/ano0059.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0059s.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 6000,
+                "height": 4508,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0059s.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0059.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0060.json",
+          "@type": "sc:Canvas",
+          "label": " p. 60",
+          "width": 6000,
+          "height": 4508,
+          "images": [
+            {
+              "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/annotation/ano0060.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0060s.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 6000,
+                "height": 4508,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0060s.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0060.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0061.json",
+          "@type": "sc:Canvas",
+          "label": " p. 61",
+          "width": 6000,
+          "height": 4508,
+          "images": [
+            {
+              "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/annotation/ano0061.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0061s.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 6000,
+                "height": 4508,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0061s.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0061.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0062.json",
+          "@type": "sc:Canvas",
+          "label": " p. 62",
+          "width": 6000,
+          "height": 4508,
+          "images": [
+            {
+              "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/annotation/ano0062.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0062s.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 6000,
+                "height": 4508,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0062s.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0062.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0063.json",
+          "@type": "sc:Canvas",
+          "label": " p. 63",
+          "width": 6000,
+          "height": 4508,
+          "images": [
+            {
+              "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/annotation/ano0063.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0063s.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 6000,
+                "height": 4508,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0063s.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0063.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0064.json",
+          "@type": "sc:Canvas",
+          "label": " p. 64",
+          "width": 6000,
+          "height": 4508,
+          "images": [
+            {
+              "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/annotation/ano0064.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0064s.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 6000,
+                "height": 4508,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0064s.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0064.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0065.json",
+          "@type": "sc:Canvas",
+          "label": " p. 65",
+          "width": 6000,
+          "height": 4508,
+          "images": [
+            {
+              "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/annotation/ano0065.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0065s.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 6000,
+                "height": 4508,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0065s.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0065.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0066.json",
+          "@type": "sc:Canvas",
+          "label": " p. 66",
+          "width": 6000,
+          "height": 4508,
+          "images": [
+            {
+              "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/annotation/ano0066.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0066s.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 6000,
+                "height": 4508,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0066s.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0066.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0067.json",
+          "@type": "sc:Canvas",
+          "label": " p. 67",
+          "width": 6000,
+          "height": 4508,
+          "images": [
+            {
+              "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/annotation/ano0067.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0067s.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 6000,
+                "height": 4508,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0067s.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0067.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0068.json",
+          "@type": "sc:Canvas",
+          "label": " p. 68",
+          "width": 6000,
+          "height": 4508,
+          "images": [
+            {
+              "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/annotation/ano0068.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0068s.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 6000,
+                "height": 4508,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0068s.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0068.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0069.json",
+          "@type": "sc:Canvas",
+          "label": " p. 69",
+          "width": 6000,
+          "height": 4508,
+          "images": [
+            {
+              "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/annotation/ano0069.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0069s.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 6000,
+                "height": 4508,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0069s.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0069.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0070.json",
+          "@type": "sc:Canvas",
+          "label": " p. 70",
+          "width": 6000,
+          "height": 4508,
+          "images": [
+            {
+              "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/annotation/ano0070.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0070s.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 6000,
+                "height": 4508,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0070s.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0070.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0071.json",
+          "@type": "sc:Canvas",
+          "label": " p. 71",
+          "width": 6000,
+          "height": 4508,
+          "images": [
+            {
+              "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/annotation/ano0071.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0071s.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 6000,
+                "height": 4508,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0071s.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0071.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0072.json",
+          "@type": "sc:Canvas",
+          "label": " p. 72",
+          "width": 6000,
+          "height": 4508,
+          "images": [
+            {
+              "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/annotation/ano0072.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0072s.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 6000,
+                "height": 4508,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0072s.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0072.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0073.json",
+          "@type": "sc:Canvas",
+          "label": " p. 73",
+          "width": 6000,
+          "height": 4508,
+          "images": [
+            {
+              "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/annotation/ano0073.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0073s.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 6000,
+                "height": 4508,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0073s.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0073.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0074.json",
+          "@type": "sc:Canvas",
+          "label": " p. 74",
+          "width": 6000,
+          "height": 4508,
+          "images": [
+            {
+              "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/annotation/ano0074.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0074s.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 6000,
+                "height": 4508,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0074s.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0074.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0075.json",
+          "@type": "sc:Canvas",
+          "label": " p. 75",
+          "width": 6000,
+          "height": 4508,
+          "images": [
+            {
+              "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/annotation/ano0075.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0075s.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 6000,
+                "height": 4508,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0075s.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0075.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0076.json",
+          "@type": "sc:Canvas",
+          "label": " p. 76",
+          "width": 6000,
+          "height": 4508,
+          "images": [
+            {
+              "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/annotation/ano0076.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0076s.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 6000,
+                "height": 4508,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0076s.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0076.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0077.json",
+          "@type": "sc:Canvas",
+          "label": " p. 77",
+          "width": 6000,
+          "height": 4508,
+          "images": [
+            {
+              "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/annotation/ano0077.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0077s.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 6000,
+                "height": 4508,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0077s.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0077.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0078.json",
+          "@type": "sc:Canvas",
+          "label": " p. 78",
+          "width": 6000,
+          "height": 4508,
+          "images": [
+            {
+              "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/annotation/ano0078.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0078s.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 6000,
+                "height": 4508,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0078s.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0078.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0079.json",
+          "@type": "sc:Canvas",
+          "label": " p. 79",
+          "width": 6000,
+          "height": 4508,
+          "images": [
+            {
+              "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/annotation/ano0079.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0079s.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 6000,
+                "height": 4508,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0079s.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0079.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0080.json",
+          "@type": "sc:Canvas",
+          "label": " p. 80",
+          "width": 6000,
+          "height": 4508,
+          "images": [
+            {
+              "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/annotation/ano0080.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0080s.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 6000,
+                "height": 4508,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0080s.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0080.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0081.json",
+          "@type": "sc:Canvas",
+          "label": " p. 81",
+          "width": 6000,
+          "height": 4508,
+          "images": [
+            {
+              "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/annotation/ano0081.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0081s.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 6000,
+                "height": 4508,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0081s.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0081.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0082.json",
+          "@type": "sc:Canvas",
+          "label": " p. 82",
+          "width": 6000,
+          "height": 4508,
+          "images": [
+            {
+              "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/annotation/ano0082.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0082s.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 6000,
+                "height": 4508,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0082s.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0082.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0083.json",
+          "@type": "sc:Canvas",
+          "label": " p. 83",
+          "width": 6000,
+          "height": 4508,
+          "images": [
+            {
+              "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/annotation/ano0083.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0083s.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 6000,
+                "height": 4508,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0083s.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0083.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0084.json",
+          "@type": "sc:Canvas",
+          "label": " p. 84",
+          "width": 6000,
+          "height": 4508,
+          "images": [
+            {
+              "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/annotation/ano0084.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0084s.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 6000,
+                "height": 4508,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0084s.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0084.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0085.json",
+          "@type": "sc:Canvas",
+          "label": " p. 85",
+          "width": 6000,
+          "height": 4508,
+          "images": [
+            {
+              "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/annotation/ano0085.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0085s.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 6000,
+                "height": 4508,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0085s.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0085.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0086.json",
+          "@type": "sc:Canvas",
+          "label": " p. 86",
+          "width": 6000,
+          "height": 4508,
+          "images": [
+            {
+              "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/annotation/ano0086.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0086s.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 6000,
+                "height": 4508,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0086s.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0086.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0087.json",
+          "@type": "sc:Canvas",
+          "label": " p. 87",
+          "width": 6000,
+          "height": 4508,
+          "images": [
+            {
+              "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/annotation/ano0087.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0087s.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 6000,
+                "height": 4508,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0087s.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0087.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0088.json",
+          "@type": "sc:Canvas",
+          "label": " p. 88",
+          "width": 6000,
+          "height": 4508,
+          "images": [
+            {
+              "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/annotation/ano0088.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0088s.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 6000,
+                "height": 4508,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0088s.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0088.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0089.json",
+          "@type": "sc:Canvas",
+          "label": " p. 89",
+          "width": 6000,
+          "height": 4508,
+          "images": [
+            {
+              "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/annotation/ano0089.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0089s.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 6000,
+                "height": 4508,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0089s.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0089.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0090.json",
+          "@type": "sc:Canvas",
+          "label": " p. 90",
+          "width": 6000,
+          "height": 4508,
+          "images": [
+            {
+              "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/annotation/ano0090.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0090s.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 6000,
+                "height": 4508,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0090s.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0090.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0091.json",
+          "@type": "sc:Canvas",
+          "label": " p. 91",
+          "width": 6000,
+          "height": 4508,
+          "images": [
+            {
+              "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/annotation/ano0091.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0091s.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 6000,
+                "height": 4508,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0091s.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0091.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0092.json",
+          "@type": "sc:Canvas",
+          "label": " p. 92",
+          "width": 6000,
+          "height": 4508,
+          "images": [
+            {
+              "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/annotation/ano0092.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0092s.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 6000,
+                "height": 4508,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0092s.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0092.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0093.json",
+          "@type": "sc:Canvas",
+          "label": " p. 93",
+          "width": 6000,
+          "height": 4508,
+          "images": [
+            {
+              "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/annotation/ano0093.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0093s.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 6000,
+                "height": 4508,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0093s.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0093.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0094.json",
+          "@type": "sc:Canvas",
+          "label": " p. 94",
+          "width": 6000,
+          "height": 4508,
+          "images": [
+            {
+              "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/annotation/ano0094.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0094s.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 6000,
+                "height": 4508,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0094s.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0094.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0095.json",
+          "@type": "sc:Canvas",
+          "label": " p. 95",
+          "width": 6000,
+          "height": 4508,
+          "images": [
+            {
+              "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/annotation/ano0095.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0095s.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 6000,
+                "height": 4508,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0095s.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0095.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0096.json",
+          "@type": "sc:Canvas",
+          "label": " p. 96",
+          "width": 6000,
+          "height": 4508,
+          "images": [
+            {
+              "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/annotation/ano0096.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0096s.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 6000,
+                "height": 4508,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0096s.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0096.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0097.json",
+          "@type": "sc:Canvas",
+          "label": " p. 97",
+          "width": 6000,
+          "height": 4508,
+          "images": [
+            {
+              "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/annotation/ano0097.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0097s.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 6000,
+                "height": 4508,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0097s.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0097.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0098.json",
+          "@type": "sc:Canvas",
+          "label": " p. 98",
+          "width": 6000,
+          "height": 4508,
+          "images": [
+            {
+              "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/annotation/ano0098.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0098s.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 6000,
+                "height": 4508,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0098s.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0098.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0099.json",
+          "@type": "sc:Canvas",
+          "label": " p. 99",
+          "width": 6000,
+          "height": 4508,
+          "images": [
+            {
+              "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/annotation/ano0099.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0099s.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 6000,
+                "height": 4508,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0099s.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0099.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0100.json",
+          "@type": "sc:Canvas",
+          "label": " p. 100",
+          "width": 6000,
+          "height": 4508,
+          "images": [
+            {
+              "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/annotation/ano0100.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0100s.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 6000,
+                "height": 4508,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0100s.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0100.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0101.json",
+          "@type": "sc:Canvas",
+          "label": " p. 101",
+          "width": 6000,
+          "height": 4508,
+          "images": [
+            {
+              "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/annotation/ano0101.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0101s.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 6000,
+                "height": 4508,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0101s.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0101.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0102.json",
+          "@type": "sc:Canvas",
+          "label": " p. 102",
+          "width": 6000,
+          "height": 4508,
+          "images": [
+            {
+              "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/annotation/ano0102.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0102s.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 6000,
+                "height": 4508,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0102s.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0102.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0103.json",
+          "@type": "sc:Canvas",
+          "label": " p. 103",
+          "width": 6000,
+          "height": 4508,
+          "images": [
+            {
+              "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/annotation/ano0103.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0103s.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 6000,
+                "height": 4508,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0103s.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0103.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0104.json",
+          "@type": "sc:Canvas",
+          "label": " p. 104",
+          "width": 6000,
+          "height": 4508,
+          "images": [
+            {
+              "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/annotation/ano0104.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0104s.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 6000,
+                "height": 4508,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0104s.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0104.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0105.json",
+          "@type": "sc:Canvas",
+          "label": " p. 105",
+          "width": 6000,
+          "height": 4508,
+          "images": [
+            {
+              "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/annotation/ano0105.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0105s.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 6000,
+                "height": 4508,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0105s.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0105.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0106.json",
+          "@type": "sc:Canvas",
+          "label": " p. 106",
+          "width": 6000,
+          "height": 4508,
+          "images": [
+            {
+              "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/annotation/ano0106.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0106s.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 6000,
+                "height": 4508,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0106s.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0106.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0107.json",
+          "@type": "sc:Canvas",
+          "label": " p. 107",
+          "width": 6000,
+          "height": 4508,
+          "images": [
+            {
+              "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/annotation/ano0107.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0107s.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 6000,
+                "height": 4508,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0107s.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0107.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0108.json",
+          "@type": "sc:Canvas",
+          "label": " p. 108",
+          "width": 6000,
+          "height": 4508,
+          "images": [
+            {
+              "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/annotation/ano0108.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0108s.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 6000,
+                "height": 4508,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0108s.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0108.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0109.json",
+          "@type": "sc:Canvas",
+          "label": " p. 109",
+          "width": 6000,
+          "height": 4508,
+          "images": [
+            {
+              "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/annotation/ano0109.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0109s.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 6000,
+                "height": 4508,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0109s.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0109.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0110.json",
+          "@type": "sc:Canvas",
+          "label": " p. 110",
+          "width": 6000,
+          "height": 4508,
+          "images": [
+            {
+              "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/annotation/ano0110.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0110s.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 6000,
+                "height": 4508,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0110s.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0110.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0111.json",
+          "@type": "sc:Canvas",
+          "label": " p. 111",
+          "width": 6000,
+          "height": 4508,
+          "images": [
+            {
+              "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/annotation/ano0111.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0111s.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 6000,
+                "height": 4508,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0111s.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0111.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0112.json",
+          "@type": "sc:Canvas",
+          "label": " p. 112",
+          "width": 6000,
+          "height": 4508,
+          "images": [
+            {
+              "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/annotation/ano0112.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0112s.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 6000,
+                "height": 4508,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/KB033_01/0112s.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0112.json"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "structures": [
+    {
+      "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/range/r1.json",
+      "@type": "sc:Range",
+      "label": "\u76ee\u6b21",
+      "canvases": [
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0001.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0002.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0003.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0004.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0005.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0006.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0007.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0008.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0009.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0010.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0011.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0012.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0013.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0014.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0015.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0016.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0017.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0018.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0019.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0020.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0021.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0022.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0023.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0024.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0025.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0026.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0027.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0028.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0029.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0030.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0031.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0032.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0033.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0034.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0035.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0036.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0037.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0038.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0039.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0040.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0041.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0042.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0043.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0044.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0045.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0046.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0047.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0048.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0049.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0050.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0051.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0052.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0053.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0054.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0055.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0056.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0057.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0058.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0059.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0060.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0061.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0062.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0063.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0064.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0065.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0066.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0067.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0068.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0069.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0070.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0071.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0072.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0073.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0074.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0075.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0076.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0077.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0078.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0079.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0080.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0081.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0082.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0083.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0084.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0085.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0086.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0087.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0088.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0089.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0090.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0091.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0092.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0093.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0094.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0095.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0096.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0097.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0098.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0099.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0100.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0101.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0102.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0103.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0104.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0105.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0106.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0107.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0108.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0109.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0110.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0111.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0112.json"
+      ]
+    },
+    {
+      "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/range/r1_0002.json",
+      "@type": "sc:Range",
+      "label": "\u6469\u8a36\u6b62\u89c0  \u5e8f /   \u667a\u9857\u8aac  / <a href=\"#T1911s0\">SAT TextDB</a>",
+      "within": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/range/r1.json",
+      "canvases": [
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0002.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0003.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0004.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0005.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0006.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0007.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0008.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0009.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0010.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0011.json"
+      ]
+    },
+    {
+      "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/range/r1_0012.json",
+      "@type": "sc:Range",
+      "label": "\u6469\u8a36\u6b62\u89c0  \u5dfb1 /   \u667a\u9857\u8aac  / <a href=\"#T1911s1a\">SAT TextDB</a>",
+      "within": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/range/r1.json",
+      "canvases": [
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0012.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0013.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0014.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0015.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0016.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0017.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0018.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0019.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0020.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0021.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0022.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0023.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0024.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0025.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0026.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0027.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0028.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0029.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0030.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0031.json"
+      ]
+    },
+    {
+      "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/range/r1_0032.json",
+      "@type": "sc:Range",
+      "label": "\u6469\u8a36\u6b62\u89c0  \u5dfb1 /   \u667a\u9857\u8aac  / <a href=\"#T1911s1b\">SAT TextDB</a>",
+      "within": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/range/r1.json",
+      "canvases": [
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0032.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0033.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0034.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0035.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0036.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0037.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0038.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0039.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0040.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0041.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0042.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0043.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0044.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0045.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0046.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0047.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0048.json"
+      ]
+    },
+    {
+      "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/range/r1_0049.json",
+      "@type": "sc:Range",
+      "label": "\u6469\u8a36\u6b62\u89c0  \u5dfb2 /   \u667a\u9857\u8aac  / <a href=\"#T1911s2a\">SAT TextDB</a>",
+      "within": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/range/r1.json",
+      "canvases": [
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0049.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0050.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0051.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0052.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0053.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0054.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0055.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0056.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0057.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0058.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0059.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0060.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0061.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0062.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0063.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0064.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0065.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0066.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0067.json"
+      ]
+    },
+    {
+      "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/range/r1_0068.json",
+      "@type": "sc:Range",
+      "label": "\u6469\u8a36\u6b62\u89c0  \u5dfb2 /   \u667a\u9857\u8aac  / <a href=\"#T1911s2b\">SAT TextDB</a>",
+      "within": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/range/r1.json",
+      "canvases": [
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0068.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0069.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0070.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0071.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0072.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0073.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0074.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0075.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0076.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0077.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0078.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0079.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0080.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0081.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0082.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0083.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0084.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0085.json"
+      ]
+    },
+    {
+      "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/range/r1_0086.json",
+      "@type": "sc:Range",
+      "label": "\u6469\u8a36\u6b62\u89c0  \u5dfb3 /   \u667a\u9857\u8aac  / <a href=\"#T1911s3a\">SAT TextDB</a>",
+      "within": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/range/r1.json",
+      "canvases": [
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0086.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0087.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0088.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0089.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0090.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0091.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0092.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0093.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0094.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0095.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0096.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0097.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0098.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0099.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0100.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0101.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0102.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0103.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0104.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0105.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0106.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0107.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0108.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0109.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0110.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0111.json",
+        "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0112.json"
+      ]
+    }
+  ]
+}
