@@ -1,0 +1,49 @@
+---
+canvas: "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0012.json"
+order: 6
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:tagging",
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "oa:Tag",
+            "chars": "\u4e00\u822c"
+        },
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p>\u968b\u4ee3\uff08581\u5e74 - 618\u5e74\uff09\u306f\u3001\u4e2d\u56fd\u306e\u6b74\u53f2\u306b\u304a\u3051\u308b\u91cd\u8981\u306a\u6642\u4ee3\u3067\u3059\u3002\u968b\u306f\u3001\u9b4f\u664b\u5357\u5317\u671d\u6642\u4ee3\u306e\u6df7\u4e71\u3092\u93ae\u3081\u3001\u7d04300\u5e74\u3076\u308a\u306b\u4e2d\u56fd\u3092\u518d\u7d71\u4e00\u3057\u307e\u3057\u305f1\u3002\u968b\u306e\u521d\u4ee3\u7687\u5e1d\u306f\u694a\u5805\uff08\u6587\u5e1d\uff09\u3067\u3001\u5f7c\u306e\u6cbb\u4e16\u306f\u300c\u958b\u7687\u306e\u6cbb\u300d\u3068\u3057\u3066\u77e5\u3089\u308c\u3066\u3044\u307e\u3059\u3002\u968b\u306e\u90fd\u306f\u73fe\u5728\u306e\u897f\u5b89\u5e02\u306b\u3042\u305f\u308b\u5927\u8208\u57ce\u3067\u3057\u305f\u3002\u968b\u4ee3\u306e\u4e3b\u306a\u7279\u5fb4\u3068\u3057\u3066\u306f\u3001\u4ee5\u4e0b\u306e\u70b9\u304c\u6319\u3052\u3089\u308c\u307e\u3059\uff1a\u4e2d\u592e\u96c6\u6a29\u5316: \u968b\u306f\u4e2d\u592e\u96c6\u6a29\u7684\u306a\u7d71\u6cbb\u4f53\u5236\u3092\u78ba\u7acb\u3057\u3001\u5b98\u50da\u5236\u5ea6\u3092\u6574\u5099\u3057\u307e\u3057\u305f\u3002</p>\n<p>\u5927\u904b\u6cb3\u306e\u5efa\u8a2d: \u968b\u306f\u5927\u904b\u6cb3\u3092\u5efa\u8a2d\u3057\u3001\u5357\u5317\u306e\u4ea4\u901a\u3068\u7d4c\u6e08\u306e\u767a\u5c55\u3092\u4fc3\u9032\u3057\u307e\u3057\u305f\u3002</p>\n<p>\u5f8b\u4ee4\u5236\u5ea6\u306e\u5c0e\u5165: \u968b\u306f\u5f8b\u4ee4\u5236\u5ea6\u3092\u5c0e\u5165\u3057\u3001\u6cd5\u6cbb\u56fd\u5bb6\u3092\u76ee\u6307\u3057\u307e\u3057\u305f\u3002</p>\n<p>\u968b\u4ee3\u306f\u77ed\u547d\u306b\u7d42\u308f\u308a\u307e\u3057\u305f\u304c\u3001\u305d\u306e\u5f8c\u306e\u5510\u4ee3\u306b\u591a\u5927\u306a\u5f71\u97ff\u3092\u4e0e\u3048\u307e\u3057\u305f\u3002</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0012.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2552,1835,186,146"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2710.4167,1959.14464c-17.12801,12.2539 -41.28985,21.37897 -65.56878,21.36807v0v0c-24.27892,-0.0109 -45.42994,-8.54726 -65.56878,-21.36807c-20.13883,-12.82081 -27.96654,-32.35726 -27.15948,-51.58708c0.80707,-19.22982 10.24891,-38.15303 27.15948,-51.58708c16.91056,-13.43406 41.28985,-21.37897 65.56878,-21.36807c24.27892,0.0109 48.45749,7.97762 65.56878,21.36807c17.11129,13.39045 27.15529,32.20463 27.15948,51.58708c0.00418,19.38245 -10.03146,39.33318 -27.15948,51.58708z\"  id=\"ellipse_f0e75a46-4310-457e-95d5-cb1f543cab72\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#0000ff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://ganto-site.github.io/gosho/manifests/kakouzou/KB033_01/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2025-01-22T06:01:43.840Z",
+    "@id": "14697c07-d41b-48cd-9e69-dcdb6de0d32d.json",
+    "oa:annotatedBy": [
+        "ganto-site"
+    ]
+}
