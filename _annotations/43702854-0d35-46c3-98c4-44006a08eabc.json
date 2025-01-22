@@ -4,21 +4,15 @@ order: 5
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "43702854-0d35-46c3-98c4-44006a08eabc.json",
     "@type": "oa:Annotation",
     "motivation": [
-        "oa:tagging",
-        "oa:commenting"
+        "oa:commenting",
+        "oa:tagging"
     ],
-    "resource": [
-        {
-            "@type": "oa:Tag",
-            "chars": "\u5fa1\u66f8"
-        },
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p>\u300e\u6b62\u89b3\u8f14\u884c\u4f1d\u5f18\u6c7a\u300f\u5dfb\u7b2c\u4e94\u4e4b\u4e09\u3001\u300c\u6545\u306b\u6b62\u89b3\u306b\u81f3\u308a\u3066\u3001\u6b63\u3057\u304f\u89b3\u6cd5\u3092\u660e\u304b\u3057\u3001\u4e26\u3073\u306b\u4e09\u5343\u3092\u4ee5\u3066\u6307\u5357\u3068\u70ba\u3057\u3001\u4e43\u3061\u662f\u308c\u7d42\u7aae\u7a76\u7adf\u306e\u6975\u8aac\u306a\u308a\u3002\u6545\u306b\u5e8f\u306e\u4e2d\u306b\u4e91\u308f\u304f\u3001\u300e\u5df1\u5fc3\u306e\u4e2d\u306b\u884c\u305a\u308b\u6240\u306e\u6cd5\u9580\u3092\u8aac\u304f\u300f\u3068\u3002\u826f\uff08\u307e\u3053\u3068\uff09\u306b\u4ee5\uff08\u3086\u3048\uff09\u6709\u308b\u306a\u308a\u300d</p>"
-        }
+    "oa:annotatedAt": "2025-01-22T05:51:53.695Z",
+    "oa:annotatedBy": [
+        "ganto-site"
     ],
     "on": [
         {
@@ -32,7 +26,7 @@ order: 5
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2312.66243,1364.67945h77.16517v0h77.16517v166.02453v166.02453h-77.16517h-77.16517v-166.02453z\"  id=\"rectangle_61db23df-6e87-4d6e-9486-40724ca666d4\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#0000ff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2312.66243,1364.67945h77.16517v0h77.16517v166.02453v166.02453h-77.16517h-77.16517v-166.02453z\"  id=\"rectangle_61db23df-6e87-4d6e-9486-40724ca666d4\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#0000ff\" stroke-width=\"22.09404\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -51,7 +45,7 @@ order: 5
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2839.4715,2304.04984h1v0h1v1v1h-1h-1v-1z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_d73fe260-d313-4c2a-9e2e-255416114005\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#0000ff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2839.4715,2304.04984h1v0h1v1v1h-1h-1v-1z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0,1],&quot;editable&quot;:true}\" id=\"rectangle_d73fe260-d313-4c2a-9e2e-255416114005\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#0000ff\" stroke-width=\"22.09404\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -60,9 +54,20 @@ order: 5
             }
         }
     ],
-    "oa:annotatedAt": "2025-01-22T05:51:53.695Z",
-    "@id": "43702854-0d35-46c3-98c4-44006a08eabc.json",
-    "oa:annotatedBy": [
-        "ganto-site"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p>\u300e\u6b62\u89b3\u8f14\u884c\u4f1d\u5f18\u6c7a\u300f\u5dfb\u7b2c\u4e94\u4e4b\u4e09\u3001\u300c\u6545\u306b\u6b62\u89b3\u306b\u81f3\u308a\u3066\u3001\u6b63\u3057\u304f\u89b3\u6cd5\u3092\u660e\u304b\u3057\u3001\u4e26\u3073\u306b\u4e09\u5343\u3092\u4ee5\u3066\u6307\u5357\u3068\u70ba\u3057\u3001\u4e43\u3061\u662f\u308c\u7d42\u7aae\u7a76\u7adf\u306e\u6975\u8aac\u306a\u308a\u3002\u6545\u306b\u5e8f\u306e\u4e2d\u306b\u4e91\u308f\u304f\u3001\u300e\u5df1\u5fc3\u306e\u4e2d\u306b\u884c\u305a\u308b\u6240\u306e\u6cd5\u9580\u3092\u8aac\u304f\u300f\u3068\u3002\u826f\uff08\u307e\u3053\u3068\uff09\u306b\u4ee5\uff08\u3086\u3048\uff09\u6709\u308b\u306a\u308a\u300d</p>",
+            "format": "text/html"
+        },
+        {
+            "@type": "oa:Tag",
+            "chars": "\u5fa1\u66f8"
+        },
+        {
+            "@type": "oa:Tag",
+            "chars": "\u5f18"
+        }
+    ],
+    "oa:serializedAt": "2025-01-22T05:57:16.034Z"
 }
