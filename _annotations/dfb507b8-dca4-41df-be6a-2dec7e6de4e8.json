@@ -4,16 +4,14 @@ order: 11
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "dfb507b8-dca4-41df-be6a-2dec7e6de4e8.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": ""
-        }
+    "oa:annotatedAt": "2025-01-25T12:48:06.057Z",
+    "oa:annotatedBy": [
+        "ganto-site"
     ],
     "on": [
         {
@@ -27,7 +25,7 @@ order: 11
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1604.1408,3439.8742h112.72049v0h112.72049v280.30122v280.30122h-112.72049h-112.72049v-280.30122z\"  id=\"rectangle_54620a1f-6774-47ff-97a6-ad46b874ddc9\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#008000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1604.1408,3439.8742h112.72049v0h112.72049v280.30122v280.30122h-112.72049h-112.72049v-280.30122z\"  id=\"rectangle_54620a1f-6774-47ff-97a6-ad46b874ddc9\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#008000\" stroke-width=\"18.57471\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 11
             }
         }
     ],
-    "oa:annotatedAt": "2025-01-25T12:48:06.057Z",
-    "@id": "dfb507b8-dca4-41df-be6a-2dec7e6de4e8.json",
-    "oa:annotatedBy": [
-        "ganto-site"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p>\u697d\u8aac\uff08\u304e\u3087\u3046\u305b\u3064\uff09\u7aae\u307e\u3089\u305a\u3068\u96d6\u3082\u3001</p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2025-01-25T15:38:54.729Z"
 }
