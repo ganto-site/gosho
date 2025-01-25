@@ -14,6 +14,7 @@ order: 26
     "oa:annotatedBy": [
         "ganto-site"
     ],
+    "oa:serializedAt": "2025-01-25T16:16:56.680Z",
     "on": [
         {
             "@type": "oa:SpecificResource",
@@ -38,13 +39,12 @@ order: 26
     "resource": [
         {
             "@type": "dctypes:Text",
-            "chars": "<p><span style=\"color: #4f3c2e; font-family: Tinos, 'Hiragino Mincho ProN', 'Source Han Serif', 'Source Han Serif TC', 'Noto Serif CJK', 'Noto Serif TC', 'Noto Serif SC', Songti, 'LiSong Pro', 'Apple LiSung', \u65b0\u7d30\u660e\u9ad4, \u65b0\u7ec6\u660e\u4f53, PMingLiU, \u7d30\u660e\u9ad4, \u7ec6\u660e\u4f53, MingLiU, HanaMinA, HanaMinB, HanaMinC, 'Hanazono Mincho A', 'Hanazono Mincho B', 'Hanazono Mincho C', Jomolhari, serif; font-size: 22.4px; letter-spacing: 1.12px; background-color: #f5f5f5;\">\u6d69\u5927\u5fae\u5999\u4e5f\u3002\u6b62\u89c0\u4e00\u4e0a\u66f0\uff1a\u300c\u6cd5\u9580\u6d69\u5999\uff0c\u70ba\u5929\u771f\u7368\u6717\u3002\u300d</span></p>",
+            "chars": "<p>\u6d69\u5927\u5fae\u5999</p>",
             "format": "text/html"
         },
         {
             "@type": "oa:Tag",
             "chars": "\u96dc\u8a9e"
         }
-    ],
-    "oa:serializedAt": "2025-01-25T16:15:11.949Z"
+    ]
 }
