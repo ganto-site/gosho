@@ -4,16 +4,14 @@ order: 27
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "52f3c359-9276-4905-b50e-75f4b652e488.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p>\u5929\u771f\u72ec\u6717\uff08\u3066\u3093\u3057\u3093\u3069\u304f\u308d\u3046\uff09\u3068\u70ba\u3059\u3084</p>"
-        }
+    "oa:annotatedAt": "2025-01-25T16:18:14.451Z",
+    "oa:annotatedBy": [
+        "ganto-site"
     ],
     "on": [
         {
@@ -27,7 +25,7 @@ order: 27
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M993.98395,2491.0113h86.14759v0h86.14759v413.00447v413.00447h-86.14759h-86.14759v-413.00447z\"  id=\"rectangle_41073e50-7fae-47d9-a301-e1a0f03b5292\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M993.98395,2491.0113h86.14759v0h86.14759v413.00447v413.00447h-86.14759h-86.14759v-413.00447z\"  id=\"rectangle_41073e50-7fae-47d9-a301-e1a0f03b5292\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"16.40318\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 27
             }
         }
     ],
-    "oa:annotatedAt": "2025-01-25T16:18:14.451Z",
-    "@id": "52f3c359-9276-4905-b50e-75f4b652e488.json",
-    "oa:annotatedBy": [
-        "ganto-site"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p>\u5929\u771f\u72ec\u6717(\u3066\u3093\u3057\u3093\u3069\u304f\u308d\u3046)\u3068\u70ba\u3059\u3084&lt; \u667a\u9857\u306f\u5929\u7136\u306e\u771f\u7406\u3092\u3072\u3068\u308a\u660e\u3089\u304b\u306b\u609f\u3063\u305f\u3068\u3059\u308b\u306e\u304b</p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2025-01-25T16:22:40.476Z"
 }
