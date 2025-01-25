@@ -4,16 +4,15 @@ order: 26
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "3ee7c580-c180-4fc9-9e07-9b0f39ddeeea.json",
     "@type": "oa:Annotation",
     "motivation": [
-        "oa:commenting"
+        "oa:commenting",
+        "oa:tagging"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p>\u6cd5\u9580\u306f\u6d69\u5999\uff08\u3053\u3046\u307f\u3087\u3046\uff09\u306a\u308a\u3002</p>"
-        }
+    "oa:annotatedAt": "2025-01-25T16:07:52.918Z",
+    "oa:annotatedBy": [
+        "ganto-site"
     ],
     "on": [
         {
@@ -27,7 +26,7 @@ order: 26
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M985.25401,1842.19472h84.55326v0h84.55326v331.79274v331.79274h-84.55326h-84.55326v-331.79274z\"  id=\"rectangle_8d69a909-4a12-41b5-bc81-59eb9ba87568\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff00ff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M985.25401,1842.19472h84.55326v0h84.55326v331.79274v331.79274h-84.55326h-84.55326v-331.79274z\"  id=\"rectangle_8d69a909-4a12-41b5-bc81-59eb9ba87568\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff00ff\" stroke-width=\"15.82097\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +35,16 @@ order: 26
             }
         }
     ],
-    "oa:annotatedAt": "2025-01-25T16:07:52.918Z",
-    "@id": "3ee7c580-c180-4fc9-9e07-9b0f39ddeeea.json",
-    "oa:annotatedBy": [
-        "ganto-site"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p><span style=\"color: #4f3c2e; font-family: Tinos, 'Hiragino Mincho ProN', 'Source Han Serif', 'Source Han Serif TC', 'Noto Serif CJK', 'Noto Serif TC', 'Noto Serif SC', Songti, 'LiSong Pro', 'Apple LiSung', \u65b0\u7d30\u660e\u9ad4, \u65b0\u7ec6\u660e\u4f53, PMingLiU, \u7d30\u660e\u9ad4, \u7ec6\u660e\u4f53, MingLiU, HanaMinA, HanaMinB, HanaMinC, 'Hanazono Mincho A', 'Hanazono Mincho B', 'Hanazono Mincho C', Jomolhari, serif; font-size: 22.4px; letter-spacing: 1.12px; background-color: #f5f5f5;\">\u6d69\u5927\u5fae\u5999\u4e5f\u3002\u6b62\u89c0\u4e00\u4e0a\u66f0\uff1a\u300c\u6cd5\u9580\u6d69\u5999\uff0c\u70ba\u5929\u771f\u7368\u6717\u3002\u300d</span></p>",
+            "format": "text/html"
+        },
+        {
+            "@type": "oa:Tag",
+            "chars": "\u96dc\u8a9e"
+        }
+    ],
+    "oa:serializedAt": "2025-01-25T16:15:11.949Z"
 }
