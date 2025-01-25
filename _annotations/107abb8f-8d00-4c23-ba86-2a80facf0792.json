@@ -1,0 +1,44 @@
+---
+canvas: "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0012.json"
+order: 21
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p>\u300e\u8ad6\u300f\u306b\u4e91\u308f\u304f\u3001\u300c\u6211\u304c\u884c\u306b\u3001\u5e2b\u4fdd\uff08\u3057\u307b\uff09\u7121\u3057\u300d\u3068&lt; \u300e\u5927\u667a\u5ea6\u8ad6\u300f\u306e\u300c\u79c1\u306e\u4fee\u884c\u306b\u3001\u5148\u751f\u306f\u3044\u306a\u304b\u3063\u305f\u300d\u3068\u3044\u3046\u7acb\u5834\u3068\u3001</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0012.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1204,1198,185,1147"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1204.00654,1198.00328h92.61542v0h92.61542v573.3136v573.3136h-92.61542h-92.61542v-573.3136z\"  id=\"rectangle_20423bd7-79f4-44de-991a-3490773db8c8\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://ganto-site.github.io/gosho/manifests/kakouzou/KB033_01/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2025-01-25T15:57:01.377Z",
+    "@id": "107abb8f-8d00-4c23-ba86-2a80facf0792.json",
+    "oa:annotatedBy": [
+        "ganto-site"
+    ]
+}
