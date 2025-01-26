@@ -1,0 +1,44 @@
+---
+canvas: "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0013.json"
+order: 11
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p>\u6cd5\u3092\u5f4c\u906e\u8fe6\u306b\u4ed8\u3059</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0013.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=4082,683,214,854"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M4081.60431,682.94496h107.00339v0h107.00339v427.05207v427.05207h-107.00339h-107.00339v-427.05207z\"  id=\"rectangle_c8c956ac-efa7-444b-adf1-98222a02b632\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#0000ff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://ganto-site.github.io/gosho/manifests/kakouzou/KB033_01/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2025-01-26T18:51:43.035Z",
+    "@id": "690a83aa-600a-4778-aa65-c4b43bb91782.json",
+    "oa:annotatedBy": [
+        "ganto-site"
+    ]
+}
