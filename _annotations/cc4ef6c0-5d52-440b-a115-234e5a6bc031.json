@@ -1,0 +1,44 @@
+---
+canvas: "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0013.json"
+order: 14
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p>\u663c3\u6642\u534a\u304b\u30899\u6642\u307e\u3067\u5bdd\u305f\u304b\u3089\u3001\u30c1\u4eca\u3082\u7720\u308c\u305a\u3001\u305d\u3070\u3067\u30bf\u30d0\u30b3\u5438\u3063\u3066\u308b\u3002\u304a\u304b\u3052\u3067\u3001\u81ea\u5206\u306f\u3053\u306e\u4f5c\u696d\u3060\u3051\u306b\u96c6\u4e2d\u3067\u304d\u3066\u308b\u3002\u65e2\u7fd2\u306e\u6b62\u89b3\u306e\u7b87\u6240\u3060\u3051\u3001\u7248\u9762\u306b\u76f4\u63a5\u6ce8\u8a18\u306e\u5b66\u7fd2\u3002\u4ee4\u548c7\u5e741\u670827\u65e5\u671d4\u6642</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/canvas/0013.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=3881,671,186,367"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3880.95113,671.16837h93.01683v0h93.01683v183.61801v183.61801h-93.01683h-93.01683v-183.61801z\"  id=\"rectangle_b7dce374-30bb-41da-aca7-693b67e7f962\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#0000ff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://ganto-site.github.io/gosho/manifests/kakouzou/KB033_01/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2025-01-26T18:57:44.141Z",
+    "@id": "cc4ef6c0-5d52-440b-a115-234e5a6bc031.json",
+    "oa:annotatedBy": [
+        "ganto-site"
+    ]
+}
