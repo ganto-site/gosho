@@ -1,0 +1,48 @@
+---
+added: 2025-10-22 01&#58;36&#58;32.521983
+thumbnail: https://ganto-site.github.io/gosho/img/derivatives/iiif//makiguchi/full/135,/0/default.jpg
+title: "\u7267\u53E3\u5148\u751F\u5FA1\u66F8\u66F8\u304D\u8FBC\u307F"
+user: ganto-site
+---
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://ganto-site.github.io/gosho/img/derivatives/iiif//manifest.json",
+  "@type": "sc:Manifest",
+  "label": "\u7267\u53e3\u5148\u751f\u5fa1\u66f8\u66f8\u304d\u8fbc\u307f",
+  "viewingDirection": "left-to-right",
+  "sequences": [
+    {
+      "@type": "sc:Sequence",
+      "canvases": [
+        {
+          "@id": "https://ganto-site.github.io/gosho/canvas/img/derivatives/iiif//makiguchi.json",
+          "@type": "sc:Canvas",
+          "label": "makiguchi",
+          "thumbnail": "https://ganto-site.github.io/gosho/img/derivatives/iiif//makiguchi/full/135,/0/default.jpg",
+          "height": 1080,
+          "width": 1080,
+          "images": [
+            {
+              "@id": "https://ganto-site.github.io/gosho/img/derivatives/iiif//makiguchi/annotation/1.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://ganto-site.github.io/gosho/img/derivatives/iiif//makiguchi/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1080,
+                "width": 1080,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://ganto-site.github.io/gosho/img/derivatives/iiif//makiguchi",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://ganto-site.github.io/gosho/canvas/img/derivatives/iiif//makiguchi.json"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
