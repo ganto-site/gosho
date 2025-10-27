@@ -1,0 +1,44 @@
+---
+canvas: "https://dl.ndl.go.jp/api/iiif/823616/canvas/7"
+order: 5
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p>\u4eca\u306f\u6cd5\u3092\u508d(\u307c\u3046)\u3068\u3057\u4eba\u306e\u4e09\u5fb3\u3092\u6b63\u610f\u3068\u306a\u3059\u3002\u3059\u306a\u308f\u3061\u5112\u5916\u5185\u306b\u304a\u3051\u308b\u4e09\u5fb3\u3092\u5c0a\u656c\u3059\u3079\u3057\u306e\u5fa1\u6587\u3067\u3042\u308b\u3002</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dl.ndl.go.jp/api/iiif/823616/canvas/7",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1290,716,129,986"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1289.85282,716.47011h64.33905v0h64.33905v493.19724v493.19724h-64.33905h-64.33905v-493.19724z\"  id=\"rectangle_07370123-d266-4500-884f-38b38920d8bc\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#008000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://ganto-site.github.io/gosho/manifests/iiif/823616/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2025-10-27T06:47:13.630Z",
+    "@id": "22fa0a8f-1ede-40cb-9713-491146d0addb.json",
+    "oa:annotatedBy": [
+        "ganto-site"
+    ]
+}
