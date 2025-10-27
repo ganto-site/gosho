@@ -1,0 +1,44 @@
+---
+canvas: "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/045_2/canvas/0021.json"
+order: 3
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p>\u301d\u3059\u3079\u3066\u306e\u65b9\u4fbf\u3092\u6255\u3044\u3001\u609f\u308a\u305d\u306e\u3082\u306e\u3092\u8a9e\u308d\u3046\u3002\u3060\u304b\u3089\u3001\u5fc5</p>\n<p>\u305a\u4fe1\u3092\u3082\u3063\u3066\u53d7\u3051\u6b62\u3081\u3088\u301f\u3068\u547c\u3073\u304b\u3051\u3066\u3044\u308b\u306e\u3067\u3059\u3002\u5e2b\u306e\u9b42\u304b\u3089\u306e\u53eb\u3073\u3067\u3059\u3002\u5f1f\u5b50\u3078\u306e\u6e3e\u8eab\u306e\u547c\u3073\u304b\u3051\u3067\u3059\u3002</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/045_2/canvas/0021.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=3628,2451,228,841"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3628.27005,2451.13503h113.9815v0h113.9815v420.42447v420.42447h-113.9815h-113.9815v-420.42447z\"  id=\"rectangle_4ff4a0e2-f59f-4596-913a-a002e4ca633e\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#008000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/045_2/manifest3.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2025-10-27T09:37:28.123Z",
+    "@id": "566e6cb3-1f78-40f2-a99f-0b88656782b4.json",
+    "oa:annotatedBy": [
+        "ganto-site"
+    ]
+}
