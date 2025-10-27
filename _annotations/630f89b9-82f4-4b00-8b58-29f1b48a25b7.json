@@ -1,0 +1,44 @@
+---
+canvas: "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/045_2/canvas/0021.json"
+order: 5
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p>\u301d\u3053\u306e\u6642\u301f\u3001\u5f1f\u5b50\u306f\u5fdc\u3048\u305f\u3002</p>\n<p>\u3000\u2500\u2500\u8aac\u3044\u3066\u304f\u3060\u3055\u3044\u3002\u79c1\u305f\u3061\u306f\u4ecf\u306e\u8a00\u8449\u3092\u4fe1\u53d7\u3057\u307e\u3059\u3001\u3068\u3002</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/045_2/canvas/0021.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=3176,504,259,2450"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3176.34405,504.13876h129.45842v0h129.45842v1225.2242v1225.2242h-129.45842h-129.45842v-1225.2242z\"  id=\"rectangle_cadec56a-6969-4ae6-b2bf-68d147525dab\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#0000ff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/045_2/manifest3.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2025-10-27T09:40:03.112Z",
+    "@id": "630f89b9-82f4-4b00-8b58-29f1b48a25b7.json",
+    "oa:annotatedBy": [
+        "ganto-site"
+    ]
+}
