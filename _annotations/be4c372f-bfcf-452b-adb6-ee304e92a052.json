@@ -1,0 +1,44 @@
+---
+canvas: "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/045_2/canvas/0021.json"
+order: 2
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p>\u4ecf\u81ea\u8eab\u304c\u609f\u3063\u305f\u771f\u7406\u305d\u306e\u307e\u307e\u3092\u8aac\u3044\u305f\u8a00\u8449</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/045_2/canvas/0021.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=3622,721,219,1008"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3622.07928,720.81561h109.33843v0h109.33843v503.99983v503.99983h-109.33843h-109.33843v-503.99983z\"  id=\"rectangle_993533a4-b34c-4872-b81e-47289f80bcaa\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/045_2/manifest3.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2025-10-27T09:36:11.453Z",
+    "@id": "be4c372f-bfcf-452b-adb6-ee304e92a052.json",
+    "oa:annotatedBy": [
+        "ganto-site"
+    ]
+}
