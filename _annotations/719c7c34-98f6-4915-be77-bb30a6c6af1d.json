@@ -1,0 +1,44 @@
+---
+canvas: "https://dl.ndl.go.jp/api/iiif/1217131/canvas/91"
+order: 1
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p>\u6b21\u306b\u76f2\u76ee\u3068\u306f\u56db\u4eba\u3092\u51fa\u3067\u305a\u3002\u4e00\u306b\u306f\u5916\u5178(\u3052\u3066\u3093)\u306e\u4eba\u3001\u4e8c\u306b\u306f\u723e(\u306b)\u524d(\u305c\u3093)\u306e\u4eba\u3001\u4e09\u306b\u306f\u8ff9\u9580(\u3057\u3083\u304f\u3082\u3093)\u306e\u4eba\u3001\u56db\u306b\u306f\u8131\u76ca(\u3060\u3063\u3061\u3083\u304f)\u306e\u4eba\u306a\u308a\u3002&nbsp;</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dl.ndl.go.jp/api/iiif/1217131/canvas/91",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=4105,676,130,2283"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M4105.05272,675.70187h64.86719v0h64.86719v1141.73901v1141.73901h-64.86719h-64.86719v-1141.73901z\"  id=\"rectangle_0a605824-63d4-48f2-9309-ceed6b8cdad3\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#0000ff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://ganto-site.github.io/gosho/manifests/iiif/1217131/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2025-10-28T12:53:25.538Z",
+    "@id": "719c7c34-98f6-4915-be77-bb30a6c6af1d.json",
+    "oa:annotatedBy": [
+        "ganto-site"
+    ]
+}
