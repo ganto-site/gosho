@@ -4,16 +4,15 @@ order: 3
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "68ae7135-0684-43b0-b545-836d61136974.json",
     "@type": "oa:Annotation",
     "motivation": [
-        "oa:commenting"
+        "oa:commenting",
+        "oa:tagging"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": ""
-        }
+    "oa:annotatedAt": "2025-10-28T10:24:21.252Z",
+    "oa:annotatedBy": [
+        "ganto-site"
     ],
     "on": [
         {
@@ -27,7 +26,7 @@ order: 3
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1714.78338,2986.69209h58.26286v0h58.26286v189.70714v189.70714h-58.26286h-58.26286v-189.70714z\"  id=\"rectangle_321de954-26a7-4547-aecd-927b72862e93\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff00ff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1714.78338,2986.69209h58.26286v0h58.26286v189.70714v189.70714h-58.26286h-58.26286v-189.70714z\"  id=\"rectangle_321de954-26a7-4547-aecd-927b72862e93\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff00ff\" stroke-width=\"5.74527\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +35,16 @@ order: 3
             }
         }
     ],
-    "oa:annotatedAt": "2025-10-28T10:24:21.252Z",
-    "@id": "68ae7135-0684-43b0-b545-836d61136974.json",
-    "oa:annotatedBy": [
-        "ganto-site"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p>\u65e5\u84ee\u306f\u65e5\u672c\u56fd\u306e\u8af8\u4eba\u306b\u3057\u3046\u3057(\u4e3b\u5e2b)\u7236\u6bcd\u306a\u308a</p>",
+            "format": "text/html"
+        },
+        {
+            "@type": "oa:Tag",
+            "chars": "\u65e5\u4ea8"
+        }
+    ],
+    "oa:serializedAt": "2025-10-28T10:30:17.442Z"
 }
