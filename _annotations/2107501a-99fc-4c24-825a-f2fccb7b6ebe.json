@@ -1,0 +1,44 @@
+---
+canvas: "https://dl.ndl.go.jp/api/iiif/1217131/canvas/91"
+order: 4
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": ""
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dl.ndl.go.jp/api/iiif/1217131/canvas/91",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=4002,2882,137,452"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M4002.34877,2881.87363h68.69094v0h68.69094v226.11174v226.11174h-68.69094h-68.69094v-226.11174z\"  id=\"rectangle_f2982f33-fbb2-4077-a11d-28beb04115e1\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff00ff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://ganto-site.github.io/gosho/manifests/iiif/1217131/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2025-10-28T12:57:38.709Z",
+    "@id": "2107501a-99fc-4c24-825a-f2fccb7b6ebe.json",
+    "oa:annotatedBy": [
+        "ganto-site"
+    ]
+}
