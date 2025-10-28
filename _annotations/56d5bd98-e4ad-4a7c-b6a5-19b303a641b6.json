@@ -1,0 +1,44 @@
+---
+canvas: "https://dl.ndl.go.jp/api/iiif/1217131/canvas/91"
+order: 5
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p>\u4e8c\u306b\u723e\u524d\u306e\u76f2\u76ee\u3068\u306f\u3001\u4f46\u723e\u524d\u6a29\u7d4c\u306e\u4e09\u5fb3\u306b\u57f7(\u3057\u3085\u3046)\u3057\u3066\u6cd5\u83ef\u771f\u5b9f\u306e\u4e09\u5fb3\u3092\u898b\u305a</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://dl.ndl.go.jp/api/iiif/1217131/canvas/91",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=3867,675,118,1516"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3866.96688,674.83402h59.2457v0h59.2457v758.19405v758.19405h-59.2457h-59.2457v-758.19405z\"  id=\"rectangle_281881aa-02d1-4302-bc2e-be6c4329b9ab\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff00ff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://ganto-site.github.io/gosho/manifests/iiif/1217131/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2025-10-28T12:58:24.777Z",
+    "@id": "56d5bd98-e4ad-4a7c-b6a5-19b303a641b6.json",
+    "oa:annotatedBy": [
+        "ganto-site"
+    ]
+}
