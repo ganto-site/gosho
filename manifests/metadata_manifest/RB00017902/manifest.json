@@ -1,5 +1,5 @@
 ---
-added: '2025-03-04 13:10:27.002689'
+added: '2026-03-10 10:02:39.332554'
 thumbnail: https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00017902%2FRB00017902_00001_0.ptif/full/max/0/default.jpg
 title:
 - ja:
@@ -102,7 +102,7 @@ user: ganto-site
       "width": 5616,
       "thumbnail": [
         {
-          "id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00017902%2FRB00017902_00001_0.ptif/full/220,/0/default.jpg",
+          "id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00017902%2FRB00017902_00001_0.ptif/full/160,/0/default.jpg",
           "type": "Image",
           "format": "image/jpeg"
         }
@@ -155,7 +155,7 @@ user: ganto-site
       "width": 5616,
       "thumbnail": [
         {
-          "id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00017902%2FRB00017902_00002_0.ptif/full/220,/0/default.jpg",
+          "id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00017902%2FRB00017902_00002_0.ptif/full/160,/0/default.jpg",
           "type": "Image",
           "format": "image/jpeg"
         }
@@ -208,7 +208,7 @@ user: ganto-site
       "width": 5616,
       "thumbnail": [
         {
-          "id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00017902%2FRB00017902_00003_0.ptif/full/220,/0/default.jpg",
+          "id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00017902%2FRB00017902_00003_0.ptif/full/160,/0/default.jpg",
           "type": "Image",
           "format": "image/jpeg"
         }
@@ -261,7 +261,7 @@ user: ganto-site
       "width": 5616,
       "thumbnail": [
         {
-          "id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00017902%2FRB00017902_00004_0.ptif/full/220,/0/default.jpg",
+          "id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00017902%2FRB00017902_00004_0.ptif/full/160,/0/default.jpg",
           "type": "Image",
           "format": "image/jpeg"
         }
@@ -314,7 +314,7 @@ user: ganto-site
       "width": 5616,
       "thumbnail": [
         {
-          "id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00017902%2FRB00017902_00005_0.ptif/full/220,/0/default.jpg",
+          "id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00017902%2FRB00017902_00005_0.ptif/full/160,/0/default.jpg",
           "type": "Image",
           "format": "image/jpeg"
         }
@@ -367,7 +367,7 @@ user: ganto-site
       "width": 5616,
       "thumbnail": [
         {
-          "id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00017902%2FRB00017902_00006_0.ptif/full/220,/0/default.jpg",
+          "id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00017902%2FRB00017902_00006_0.ptif/full/160,/0/default.jpg",
           "type": "Image",
           "format": "image/jpeg"
         }
@@ -420,7 +420,7 @@ user: ganto-site
       "width": 5616,
       "thumbnail": [
         {
-          "id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00017902%2FRB00017902_00007_0.ptif/full/220,/0/default.jpg",
+          "id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00017902%2FRB00017902_00007_0.ptif/full/160,/0/default.jpg",
           "type": "Image",
           "format": "image/jpeg"
         }
@@ -473,7 +473,7 @@ user: ganto-site
       "width": 5616,
       "thumbnail": [
         {
-          "id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00017902%2FRB00017902_00008_0.ptif/full/220,/0/default.jpg",
+          "id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00017902%2FRB00017902_00008_0.ptif/full/160,/0/default.jpg",
           "type": "Image",
           "format": "image/jpeg"
         }
@@ -526,7 +526,7 @@ user: ganto-site
       "width": 5616,
       "thumbnail": [
         {
-          "id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00017902%2FRB00017902_00009_0.ptif/full/220,/0/default.jpg",
+          "id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00017902%2FRB00017902_00009_0.ptif/full/160,/0/default.jpg",
           "type": "Image",
           "format": "image/jpeg"
         }
@@ -579,7 +579,7 @@ user: ganto-site
       "width": 5616,
       "thumbnail": [
         {
-          "id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00017902%2FRB00017902_00010_0.ptif/full/220,/0/default.jpg",
+          "id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00017902%2FRB00017902_00010_0.ptif/full/160,/0/default.jpg",
           "type": "Image",
           "format": "image/jpeg"
         }
@@ -632,7 +632,7 @@ user: ganto-site
       "width": 5616,
       "thumbnail": [
         {
-          "id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00017902%2FRB00017902_00011_0.ptif/full/220,/0/default.jpg",
+          "id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00017902%2FRB00017902_00011_0.ptif/full/160,/0/default.jpg",
           "type": "Image",
           "format": "image/jpeg"
         }
@@ -685,7 +685,7 @@ user: ganto-site
       "width": 5616,
       "thumbnail": [
         {
-          "id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00017902%2FRB00017902_00012_0.ptif/full/220,/0/default.jpg",
+          "id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00017902%2FRB00017902_00012_0.ptif/full/160,/0/default.jpg",
           "type": "Image",
           "format": "image/jpeg"
         }
@@ -738,7 +738,7 @@ user: ganto-site
       "width": 5616,
       "thumbnail": [
         {
-          "id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00017902%2FRB00017902_00013_0.ptif/full/220,/0/default.jpg",
+          "id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00017902%2FRB00017902_00013_0.ptif/full/160,/0/default.jpg",
           "type": "Image",
           "format": "image/jpeg"
         }
@@ -791,7 +791,7 @@ user: ganto-site
       "width": 5616,
       "thumbnail": [
         {
-          "id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00017902%2FRB00017902_00014_0.ptif/full/220,/0/default.jpg",
+          "id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00017902%2FRB00017902_00014_0.ptif/full/160,/0/default.jpg",
           "type": "Image",
           "format": "image/jpeg"
         }
@@ -844,7 +844,7 @@ user: ganto-site
       "width": 5616,
       "thumbnail": [
         {
-          "id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00017902%2FRB00017902_00015_0.ptif/full/220,/0/default.jpg",
+          "id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00017902%2FRB00017902_00015_0.ptif/full/160,/0/default.jpg",
           "type": "Image",
           "format": "image/jpeg"
         }
@@ -897,7 +897,7 @@ user: ganto-site
       "width": 5616,
       "thumbnail": [
         {
-          "id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00017902%2FRB00017902_00016_0.ptif/full/220,/0/default.jpg",
+          "id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00017902%2FRB00017902_00016_0.ptif/full/160,/0/default.jpg",
           "type": "Image",
           "format": "image/jpeg"
         }
@@ -950,7 +950,7 @@ user: ganto-site
       "width": 5616,
       "thumbnail": [
         {
-          "id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00017902%2FRB00017902_00017_0.ptif/full/220,/0/default.jpg",
+          "id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00017902%2FRB00017902_00017_0.ptif/full/160,/0/default.jpg",
           "type": "Image",
           "format": "image/jpeg"
         }
@@ -1003,7 +1003,7 @@ user: ganto-site
       "width": 5616,
       "thumbnail": [
         {
-          "id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00017902%2FRB00017902_00018_0.ptif/full/220,/0/default.jpg",
+          "id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00017902%2FRB00017902_00018_0.ptif/full/160,/0/default.jpg",
           "type": "Image",
           "format": "image/jpeg"
         }
@@ -1056,7 +1056,7 @@ user: ganto-site
       "width": 5616,
       "thumbnail": [
         {
-          "id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00017902%2FRB00017902_00019_0.ptif/full/220,/0/default.jpg",
+          "id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00017902%2FRB00017902_00019_0.ptif/full/160,/0/default.jpg",
           "type": "Image",
           "format": "image/jpeg"
         }
@@ -1109,7 +1109,7 @@ user: ganto-site
       "width": 5616,
       "thumbnail": [
         {
-          "id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00017902%2FRB00017902_00020_0.ptif/full/220,/0/default.jpg",
+          "id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00017902%2FRB00017902_00020_0.ptif/full/160,/0/default.jpg",
           "type": "Image",
           "format": "image/jpeg"
         }
@@ -1162,7 +1162,7 @@ user: ganto-site
       "width": 5616,
       "thumbnail": [
         {
-          "id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00017902%2FRB00017902_00021_0.ptif/full/220,/0/default.jpg",
+          "id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00017902%2FRB00017902_00021_0.ptif/full/160,/0/default.jpg",
           "type": "Image",
           "format": "image/jpeg"
         }
@@ -1215,7 +1215,7 @@ user: ganto-site
       "width": 5616,
       "thumbnail": [
         {
-          "id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00017902%2FRB00017902_00022_0.ptif/full/220,/0/default.jpg",
+          "id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00017902%2FRB00017902_00022_0.ptif/full/160,/0/default.jpg",
           "type": "Image",
           "format": "image/jpeg"
         }
@@ -1268,7 +1268,7 @@ user: ganto-site
       "width": 5616,
       "thumbnail": [
         {
-          "id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00017902%2FRB00017902_00023_0.ptif/full/220,/0/default.jpg",
+          "id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00017902%2FRB00017902_00023_0.ptif/full/160,/0/default.jpg",
           "type": "Image",
           "format": "image/jpeg"
         }
@@ -1321,7 +1321,7 @@ user: ganto-site
       "width": 5616,
       "thumbnail": [
         {
-          "id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00017902%2FRB00017902_00024_0.ptif/full/220,/0/default.jpg",
+          "id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00017902%2FRB00017902_00024_0.ptif/full/160,/0/default.jpg",
           "type": "Image",
           "format": "image/jpeg"
         }
@@ -1374,7 +1374,7 @@ user: ganto-site
       "width": 5616,
       "thumbnail": [
         {
-          "id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00017902%2FRB00017902_00025_0.ptif/full/220,/0/default.jpg",
+          "id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00017902%2FRB00017902_00025_0.ptif/full/160,/0/default.jpg",
           "type": "Image",
           "format": "image/jpeg"
         }
@@ -1427,7 +1427,7 @@ user: ganto-site
       "width": 5616,
       "thumbnail": [
         {
-          "id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00017902%2FRB00017902_00026_0.ptif/full/220,/0/default.jpg",
+          "id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00017902%2FRB00017902_00026_0.ptif/full/160,/0/default.jpg",
           "type": "Image",
           "format": "image/jpeg"
         }
@@ -1480,7 +1480,7 @@ user: ganto-site
       "width": 5616,
       "thumbnail": [
         {
-          "id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00017902%2FRB00017902_00027_0.ptif/full/220,/0/default.jpg",
+          "id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00017902%2FRB00017902_00027_0.ptif/full/160,/0/default.jpg",
           "type": "Image",
           "format": "image/jpeg"
         }
@@ -1533,7 +1533,7 @@ user: ganto-site
       "width": 5616,
       "thumbnail": [
         {
-          "id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00017902%2FRB00017902_00028_0.ptif/full/220,/0/default.jpg",
+          "id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00017902%2FRB00017902_00028_0.ptif/full/160,/0/default.jpg",
           "type": "Image",
           "format": "image/jpeg"
         }
@@ -1586,7 +1586,7 @@ user: ganto-site
       "width": 5616,
       "thumbnail": [
         {
-          "id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00017902%2FRB00017902_00029_0.ptif/full/220,/0/default.jpg",
+          "id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00017902%2FRB00017902_00029_0.ptif/full/160,/0/default.jpg",
           "type": "Image",
           "format": "image/jpeg"
         }
@@ -1639,7 +1639,7 @@ user: ganto-site
       "width": 5616,
       "thumbnail": [
         {
-          "id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00017902%2FRB00017902_00030_0.ptif/full/220,/0/default.jpg",
+          "id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00017902%2FRB00017902_00030_0.ptif/full/160,/0/default.jpg",
           "type": "Image",
           "format": "image/jpeg"
         }
@@ -1692,7 +1692,7 @@ user: ganto-site
       "width": 5616,
       "thumbnail": [
         {
-          "id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00017902%2FRB00017902_00031_0.ptif/full/220,/0/default.jpg",
+          "id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00017902%2FRB00017902_00031_0.ptif/full/160,/0/default.jpg",
           "type": "Image",
           "format": "image/jpeg"
         }
@@ -1745,7 +1745,7 @@ user: ganto-site
       "width": 5616,
       "thumbnail": [
         {
-          "id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00017902%2FRB00017902_00032_0.ptif/full/220,/0/default.jpg",
+          "id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00017902%2FRB00017902_00032_0.ptif/full/160,/0/default.jpg",
           "type": "Image",
           "format": "image/jpeg"
         }
@@ -1798,7 +1798,7 @@ user: ganto-site
       "width": 5616,
       "thumbnail": [
         {
-          "id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00017902%2FRB00017902_00033_0.ptif/full/220,/0/default.jpg",
+          "id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00017902%2FRB00017902_00033_0.ptif/full/160,/0/default.jpg",
           "type": "Image",
           "format": "image/jpeg"
         }
@@ -1851,7 +1851,7 @@ user: ganto-site
       "width": 5616,
       "thumbnail": [
         {
-          "id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00017902%2FRB00017902_00034_0.ptif/full/220,/0/default.jpg",
+          "id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00017902%2FRB00017902_00034_0.ptif/full/160,/0/default.jpg",
           "type": "Image",
           "format": "image/jpeg"
         }
@@ -1904,7 +1904,7 @@ user: ganto-site
       "width": 5616,
       "thumbnail": [
         {
-          "id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00017902%2FRB00017902_00035_0.ptif/full/220,/0/default.jpg",
+          "id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00017902%2FRB00017902_00035_0.ptif/full/160,/0/default.jpg",
           "type": "Image",
           "format": "image/jpeg"
         }
@@ -1957,7 +1957,7 @@ user: ganto-site
       "width": 5616,
       "thumbnail": [
         {
-          "id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00017902%2FRB00017902_00036_0.ptif/full/220,/0/default.jpg",
+          "id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00017902%2FRB00017902_00036_0.ptif/full/160,/0/default.jpg",
           "type": "Image",
           "format": "image/jpeg"
         }
@@ -2010,7 +2010,7 @@ user: ganto-site
       "width": 5616,
       "thumbnail": [
         {
-          "id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00017902%2FRB00017902_00037_0.ptif/full/220,/0/default.jpg",
+          "id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00017902%2FRB00017902_00037_0.ptif/full/160,/0/default.jpg",
           "type": "Image",
           "format": "image/jpeg"
         }
@@ -2063,7 +2063,7 @@ user: ganto-site
       "width": 5616,
       "thumbnail": [
         {
-          "id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00017902%2FRB00017902_00038_0.ptif/full/220,/0/default.jpg",
+          "id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00017902%2FRB00017902_00038_0.ptif/full/160,/0/default.jpg",
           "type": "Image",
           "format": "image/jpeg"
         }
@@ -2116,7 +2116,7 @@ user: ganto-site
       "width": 5616,
       "thumbnail": [
         {
-          "id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00017902%2FRB00017902_00039_0.ptif/full/220,/0/default.jpg",
+          "id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00017902%2FRB00017902_00039_0.ptif/full/160,/0/default.jpg",
           "type": "Image",
           "format": "image/jpeg"
         }
@@ -2169,7 +2169,7 @@ user: ganto-site
       "width": 5616,
       "thumbnail": [
         {
-          "id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00017902%2FRB00017902_00040_0.ptif/full/220,/0/default.jpg",
+          "id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00017902%2FRB00017902_00040_0.ptif/full/160,/0/default.jpg",
           "type": "Image",
           "format": "image/jpeg"
         }
@@ -2222,7 +2222,7 @@ user: ganto-site
       "width": 5616,
       "thumbnail": [
         {
-          "id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00017902%2FRB00017902_00041_0.ptif/full/220,/0/default.jpg",
+          "id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00017902%2FRB00017902_00041_0.ptif/full/160,/0/default.jpg",
           "type": "Image",
           "format": "image/jpeg"
         }
